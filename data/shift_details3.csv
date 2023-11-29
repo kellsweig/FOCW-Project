@@ -1,0 +1,1486 @@
+SITE_NAME,DATE,DAY,INSPECTOR_ID,PAID,START_SHIFT,END_SHIFT,INSPECTIONS,TOTALINSP,NUMINVASIVE
+Augusta West Kampground,08/15/2021,Sun,4769,Paid,08:00,18:00,Yes,13,
+Launch Drive,08/15/2021,Sun,3796,Paid,07:00,17:00,Yes,95,
+Old Kents Hill Road,08/15/2021,Sun,5006,Paid,13:00,19:00,Yes,4,
+Wilson Pond Road,08/15/2021,Sun,4174,Paid,13:00,19:00,Yes,15,
+Rt 41 North Basin Maranacook,08/15/2021,Sun,5353,Paid,13:00,19:00,Yes,32,
+Norcross Point South Basin Maranacook,08/15/2021,Sun,5386,Paid,13:00,19:00,Yes,24,
+East Winthrop,08/15/2021,Sun,4771,Paid,11:00,19:00,Yes,62,
+Whippoorwill Road,08/15/2021,Sun,3504,Paid,07:30,13:00,Yes,35,
+Wilson Pond Road,08/15/2021,Sun,4770,Paid,07:00,13:00,Yes,10,
+Thorofare Rd,08/15/2021,Sun,3504,Paid,13:30,17:00,Yes,21,
+Thorofare Rd,08/15/2021,Sun,4944,Paid,07:00,13:00,Yes,28,
+Old Kents Hill Road,08/15/2021,Sun,5222,Paid,07:00,13:00,Yes,8,
+Beach Road,08/15/2021,Sun,5306,Paid,07:00,13:00,Yes,16,
+Whippoorwill Road,08/15/2021,Sun,5304,Paid,13:00,19:00,Yes,16,
+Norcross Point South Basin Maranacook,08/15/2021,Sun,5305,Paid,07:00,13:00,Yes,20,
+Rt 41 North Basin Maranacook,08/15/2021,Sun,5001,Paid,07:00,13:00,Yes,18,
+Old Kents Hill Road,08/14/2021,Sat,5411,Volunteer,07:00,09:00,Yes,1,
+Rt 41 North Basin Maranacook,08/14/2021,Sat,5222,Paid,07:00,13:00,Yes,6,
+Beach Road,08/14/2021,Sat,5306,Paid,07:00,13:00,Yes,5,
+Wilson Pond Road,08/14/2021,Sat,4770,Paid,07:00,13:00,Yes,7,
+Whippoorwill Road,08/14/2021,Sat,4771,Paid,07:00,13:00,Yes,23,
+Norcross Point South Basin Maranacook,08/14/2021,Sat,4488,Paid,07:00,13:00,Yes,12,
+Norcross Point South Basin Maranacook,08/14/2021,Sat,5353,Paid,13:00,19:00,Yes,7,
+East Winthrop,08/14/2021,Sat,3504,Paid,13:00,19:00,Yes,18,
+Augusta West Kampground,08/14/2021,Sat,4769,Paid,14:00,20:00,No,0,
+Thorofare Rd,08/14/2021,Sat,4944,Paid,07:00,17:00,Yes,29,
+Wilson Pond Road,08/14/2021,Sat,4174,Paid,13:00,19:30,Yes,8,
+Whippoorwill Road,08/14/2021,Sat,5304,Paid,13:00,19:00,Yes,8,
+Launch Drive,08/14/2021,Sat,3796,Paid,07:00,17:00,Yes,40,
+Old Kents Hill Road,08/14/2021,Sat,1394,Volunteer,11:00,13:00,Yes,1,
+Augusta West Kampground,08/14/2021,Sat,5305,Paid,08:00,14:00,Yes,5,
+Rt 41 North Basin Maranacook,08/14/2021,Sat,5006,Paid,13:00,19:00,Yes,11,
+Old Kents Hill Road,08/13/2021,Fri,5222,Paid,07:00,12:00,Yes,2,
+Launch Drive,08/13/2021,Fri,5367,Paid,07:00,12:00,Yes,11,
+Thorofare Rd,08/13/2021,Fri,4771,Paid,12:00,18:00,Yes,20,
+East Winthrop,08/13/2021,Fri,5402,Paid,12:00,18:00,Yes,20,
+Launch Drive,08/13/2021,Fri,3796,Paid,12:00,18:00,Yes,54,
+Whippoorwill Road,08/13/2021,Fri,5304,Paid,12:00,18:00,Yes,19,
+Augusta West Kampground,08/13/2021,Fri,4769,Paid,12:00,18:00,Yes,8,
+Old Kents Hill Road,08/12/2021,Thu,5353,Paid,07:00,12:00,No,0,
+Launch Drive,08/12/2021,Thu,4769,Paid,07:00,15:00,Yes,17,
+Whippoorwill Road,08/12/2021,Thu,5402,Paid,12:00,17:00,Yes,6,
+Launch Drive,08/11/2021,Wed,4771,Paid,12:00,17:00,Yes,14,
+Launch Drive,08/11/2021,Wed,5305,Paid,07:00,12:00,Yes,10,
+Launch Drive,08/10/2021,Tue,3796,Paid,12:00,17:00,Yes,18,
+Launch Drive,08/10/2021,Tue,4769,Paid,07:00,12:00,Yes,8,
+Launch Drive,08/09/2021,Mon,4174,Paid,12:00,17:00,Yes,7,
+Old Kents Hill Road,08/09/2021,Mon,5150,Volunteer,08:00,10:00,Yes,1,
+Launch Drive,08/09/2021,Mon,3504,Paid,07:00,12:00,Yes,8,
+Norcross Point South Basin Maranacook,08/08/2021,Sun,3796,Paid,07:00,17:00,Yes,40,
+Beach Road,08/08/2021,Sun,4174,Paid,13:00,19:00,Yes,28,
+East Winthrop,08/08/2021,Sun,5367,Paid,07:00,13:00,Yes,5,
+Old Kents Hill Road,08/08/2021,Sun,5222,Paid,07:00,13:00,Yes,5,
+Rt 41 North Basin Maranacook,08/08/2021,Sun,5001,Paid,07:00,13:00,Yes,16,
+Beach Road,08/08/2021,Sun,5306,Paid,07:00,13:00,Yes,18,
+Launch Drive,08/08/2021,Sun,4715,Paid,07:00,13:00,Yes,17,
+Wilson Pond Road,08/08/2021,Sun,4770,Paid,07:00,13:00,Yes,2,
+Whippoorwill Road,08/08/2021,Sun,5402,Paid,07:00,13:00,Yes,19,
+Rt 41 North Basin Maranacook,08/08/2021,Sun,5353,Paid,13:00,19:00,Yes,22,
+Launch Drive,08/08/2021,Sun,5105,Paid,13:00,19:00,Yes,65,
+Thorofare Rd,08/08/2021,Sun,3504,Paid,10:00,18:00,Yes,63,
+Wilson Pond Road,08/08/2021,Sun,5386,Paid,13:00,19:00,Yes,7,
+Whippoorwill Road,08/08/2021,Sun,5304,Paid,13:00,19:00,Yes,37,
+Augusta West Kampground,08/08/2021,Sun,4769,Paid,14:00,20:00,Yes,6,
+Old Kents Hill Road,08/08/2021,Sun,5006,Paid,13:00,19:00,Yes,7,
+Augusta West Kampground,08/08/2021,Sun,5305,Paid,08:00,14:00,Yes,8,
+Norcross Point South Basin Maranacook,08/07/2021,Sat,3796,Paid,07:00,17:00,Yes,49,
+Beach Road,08/07/2021,Sat,4174,Paid,15:00,19:00,Yes,13,
+Launch Drive,08/07/2021,Sat,4715,Paid,13:00,14:10,Yes,5,
+Thorofare Rd,08/07/2021,Sat,4944,Paid,07:00,14:30,Yes,41,
+Old Kents Hill Road,08/07/2021,Sat,5222,Paid,07:00,13:00,Yes,6,
+Whippoorwill Road,08/07/2021,Sat,5304,Paid,07:00,13:00,Yes,29,
+Beach Road,08/07/2021,Sat,5306,Paid,07:00,15:00,Yes,35,
+Rt 41 North Basin Maranacook,08/07/2021,Sat,4488,Paid,07:00,13:00,Yes,52,
+Launch Drive,08/07/2021,Sat,5105,Paid,07:00,13:00,Yes,60,
+Wilson Pond Road,08/07/2021,Sat,5386,Paid,13:00,19:00,Yes,14,
+East Winthrop,08/07/2021,Sat,3504,Paid,07:00,17:00,Yes,23,
+Whippoorwill Road,08/07/2021,Sat,4771,Paid,13:00,19:00,Yes,75,
+Augusta West Kampground,08/07/2021,Sat,4769,Paid,14:00,20:00,Yes,12,
+Wilson Pond Road,08/07/2021,Sat,4770,Paid,07:00,13:00,Yes,8,
+Rt 41 North Basin Maranacook,08/07/2021,Sat,5353,Paid,13:00,19:00,Yes,33,
+Old Kents Hill Road,08/07/2021,Sat,5006,Paid,13:00,19:00,Yes,3,
+Augusta West Kampground,08/07/2021,Sat,5305,Paid,08:00,14:00,Yes,22,
+Launch Drive,08/06/2021,Fri,3796,Paid,12:00,17:00,Yes,33,
+Augusta West Kampground,08/06/2021,Fri,4769,Paid,12:00,17:00,Yes,13,
+Old Kents Hill Road,08/06/2021,Fri,4624,Volunteer,15:00,17:00,Yes,2,
+Thorofare Rd,08/06/2021,Fri,4771,Paid,12:00,17:00,Yes,9,
+East Winthrop,08/06/2021,Fri,5402,Paid,12:00,18:00,Yes,8,
+Whippoorwill Road,08/06/2021,Fri,5304,Paid,12:00,18:00,Yes,20,
+Launch Drive,08/06/2021,Fri,3504,Paid,07:00,12:00,Yes,14,
+Whippoorwill Road,08/05/2021,Thu,5304,Paid,13:00,19:00,Yes,8,
+Launch Drive,08/05/2021,Thu,5105,Paid,07:00,11:30,Yes,3,
+Launch Drive,08/04/2021,Wed,5305,Paid,07:00,12:00,Yes,10,
+Launch Drive,08/04/2021,Wed,4771,Paid,12:00,17:00,Yes,14,
+Launch Drive,08/03/2021,Tue,4769,Paid,07:00,12:00,Yes,23,
+Launch Drive,08/03/2021,Tue,3796,Paid,12:00,17:00,Yes,38,
+Launch Drive,08/02/2021,Mon,5105,Paid,12:00,17:00,Yes,6,
+Old Kents Hill Road,08/02/2021,Mon,1292,Volunteer,08:00,10:00,No,0,
+Norcross Point South Basin Maranacook,08/01/2021,Sun,5305,Paid,07:00,17:00,Yes,32,
+Old Kents Hill Road,08/01/2021,Sun,5006,Paid,07:45,13:00,Yes,11,
+Rt 41 North Basin Maranacook,08/01/2021,Sun,5222,Paid,13:00,19:00,Yes,31,
+Wilson Pond Road,08/01/2021,Sun,5386,Paid,13:00,19:00,Yes,14,
+Old Kents Hill Road,08/01/2021,Sun,5353,Paid,13:00,19:00,Yes,1,
+Old Kents Hill Road,08/01/2021,Sun,1394,Volunteer,11:00,13:00,Yes,4,
+Augusta West Kampground,08/01/2021,Sun,4771,Paid,08:00,18:00,Yes,13,
+Thorofare Rd,08/01/2021,Sun,4944,Paid,07:00,17:00,Yes,71,
+Whippoorwill Road,08/01/2021,Sun,5304,Paid,07:00,17:00,Yes,35,
+Wilson Pond Road,08/01/2021,Sun,4770,Paid,07:00,13:00,Yes,14,
+Rt 41 North Basin Maranacook,08/01/2021,Sun,5001,Paid,07:00,13:00,Yes,15,
+East Winthrop,08/01/2021,Sun,5367,Paid,07:00,13:00,Yes,9,
+East Winthrop,08/01/2021,Sun,5402,Paid,13:00,19:00,Yes,9,
+Launch Drive,08/01/2021,Sun,3796,Paid,07:00,17:00,Yes,83,
+Augusta West Kampground,07/31/2021,Sat,5354,Paid,08:00,14:00,Yes,3,
+Rt 41 North Basin Maranacook,07/31/2021,Sat,5006,Paid,07:00,13:00,Yes,11,
+East Winthrop,07/31/2021,Sat,3504,Paid,13:00,19:00,Yes,27,
+Rt 41 North Basin Maranacook,07/31/2021,Sat,5353,Paid,13:00,19:00,Yes,17,
+Thorofare Rd,07/31/2021,Sat,4944,Paid,07:00,17:00,Yes,39,
+Wilson Pond Road,07/31/2021,Sat,4770,Paid,07:00,17:00,Yes,17,
+Whippoorwill Road,07/31/2021,Sat,5304,Paid,07:00,17:00,Yes,20,
+Augusta West Kampground,07/31/2021,Sat,4769,Paid,14:00,20:00,Yes,7,
+Beach Road,07/31/2021,Sat,4771,Paid,07:00,17:00,Yes,19,
+Norcross Point South Basin Maranacook,07/31/2021,Sat,5305,Paid,07:00,16:00,Yes,25,
+Launch Drive,07/31/2021,Sat,3796,Paid,07:00,17:00,Yes,68,
+Old Kents Hill Road,07/31/2021,Sat,1299,Volunteer,09:00,11:00,Yes,5,
+Old Kents Hill Road,07/31/2021,Sat,1149,Volunteer,07:00,09:00,Yes,3,
+Old Kents Hill Road,07/31/2021,Sat,2096,Volunteer,15:00,17:00,Yes,5,
+Old Kents Hill Road,07/31/2021,Sat,5421,Volunteer,13:00,15:00,Yes,1,
+Old Kents Hill Road,07/31/2021,Sat,1291,Volunteer,15:00,17:00,No,0,
+East Winthrop,07/31/2021,Sat,5367,Paid,07:00,13:00,Yes,9,
+Launch Drive,07/30/2021,Fri,3796,Paid,12:00,18:00,Yes,5,
+East Winthrop,07/30/2021,Fri,5402,Paid,12:00,18:00,Yes,5,
+Thorofare Rd,07/30/2021,Fri,5105,Paid,12:00,18:00,Yes,7,
+Augusta West Kampground,07/30/2021,Fri,4769,Paid,12:00,18:00,Yes,4,
+Whippoorwill Road,07/30/2021,Fri,4771,Paid,12:00,18:00,Yes,9,
+Launch Drive,07/30/2021,Fri,5354,Paid,07:00,12:00,Yes,3,
+Old Kents Hill Road,07/30/2021,Fri,1292,Volunteer,17:00,19:00,Yes,2,
+Launch Drive,07/29/2021,Thu,5105,Paid,07:00,12:00,Yes,10,
+Launch Drive,07/29/2021,Thu,4769,Paid,12:00,16:30,Yes,11,
+Launch Drive,07/28/2021,Wed,5305,Paid,07:00,12:00,Yes,11,
+Launch Drive,07/28/2021,Wed,4771,Paid,12:00,17:00,Yes,18,
+Launch Drive,07/27/2021,Tue,3796,Paid,12:00,17:00,Yes,13,
+Launch Drive,07/27/2021,Tue,4769,Paid,07:00,12:00,Yes,6,
+Launch Drive,07/26/2021,Mon,4174,Paid,12:00,17:00,Yes,31,
+Launch Drive,07/26/2021,Mon,3504,Paid,07:00,12:00,Yes,16,
+Norcross Point South Basin Maranacook,07/25/2021,Sun,3796,Paid,13:00,17:00,Yes,2,
+Beach Road,07/25/2021,Sun,4174,Paid,13:00,17:00,Yes,3,
+Thorofare Rd,07/25/2021,Sun,4771,Paid,13:00,19:00,Yes,4,
+Launch Drive,07/25/2021,Sun,5105,Paid,13:00,19:00,Yes,9,
+East Winthrop,07/25/2021,Sun,3504,Paid,13:00,19:00,No,0,
+Wilson Pond Road,07/25/2021,Sun,5386,Paid,13:00,17:00,Yes,2,
+East Winthrop,07/24/2021,Sat,4715,Paid,09:20,11:00,Yes,2,
+Whippoorwill Road,07/24/2021,Sat,5105,Paid,07:00,13:00,Yes,48,
+Launch Drive,07/24/2021,Sat,5001,Paid,07:00,13:30,Yes,34,
+Launch Drive,07/24/2021,Sat,4488,Paid,07:00,13:15,Yes,42,
+Beach Road,07/24/2021,Sat,5306,Paid,07:00,13:00,Yes,31,
+Wilson Pond Road,07/24/2021,Sat,4770,Paid,07:00,13:00,Yes,10,
+Rt 41 North Basin Maranacook,07/24/2021,Sat,5305,Paid,07:00,13:00,Yes,30,
+Launch Drive,07/24/2021,Sat,3796,Paid,13:30,20:00,Yes,35,
+Rt 41 North Basin Maranacook,07/24/2021,Sat,3796,Paid,05:30,07:00,Yes,20,
+Beach Road,07/24/2021,Sat,4174,Paid,13:00,19:00,Yes,47,
+Whippoorwill Road,07/24/2021,Sat,5304,Paid,13:00,18:00,Yes,21,
+Old Kents Hill Road,07/24/2021,Sat,5353,Paid,13:00,19:00,Yes,8,
+Launch Drive,07/24/2021,Sat,4771,Paid,13:30,20:00,Yes,30,
+Augusta West Kampground,07/24/2021,Sat,4769,Paid,14:00,20:00,Yes,7,
+East Winthrop,07/24/2021,Sat,3504,Paid,11:00,19:00,Yes,74,
+Norcross Point South Basin Maranacook,07/24/2021,Sat,4485,Paid,07:00,17:00,Yes,58,
+Thorofare Rd,07/24/2021,Sat,4944,Paid,07:00,17:00,Yes,54,
+Wilson Pond Road,07/24/2021,Sat,5386,Paid,13:00,19:00,Yes,31,
+Rt 41 North Basin Maranacook,07/24/2021,Sat,5367,Paid,13:00,19:00,Yes,43,
+Augusta West Kampground,07/24/2021,Sat,5354,Paid,08:00,14:10,Yes,9,
+Old Kents Hill Road,07/24/2021,Sat,5006,Paid,07:00,13:00,Yes,11,
+Old Kents Hill Road,07/23/2021,Fri,1290,Volunteer,17:00,19:00,No,0,
+Augusta West Kampground,07/23/2021,Fri,4769,Paid,12:00,17:30,Yes,1,
+Whippoorwill Road,07/23/2021,Fri,4771,Paid,12:00,15:00,Yes,9,
+East Winthrop,07/23/2021,Fri,4485,Paid,12:00,17:00,Yes,6,
+Beach Road,07/23/2021,Fri,5306,Paid,07:00,13:00,Yes,27,
+Launch Drive,07/23/2021,Fri,3504,Paid,07:00,12:00,Yes,21,
+Thorofare Rd,07/23/2021,Fri,5105,Paid,12:00,17:15,Yes,24,
+Launch Drive,07/23/2021,Fri,3796,Paid,12:00,17:30,Yes,31,
+Launch Drive,07/22/2021,Thu,4771,Paid,12:00,17:00,Yes,13,
+Launch Drive,07/22/2021,Thu,5105,Paid,07:00,12:00,Yes,11,
+Launch Drive,07/21/2021,Wed,4771,Paid,12:00,17:00,Yes,4,
+Launch Drive,07/21/2021,Wed,5305,Paid,07:00,12:00,Yes,8,
+Launch Drive,07/20/2021,Tue,4769,Paid,07:00,12:00,Yes,12,
+Launch Drive,07/20/2021,Tue,3796,Paid,12:00,17:00,Yes,16,
+Launch Drive,07/19/2021,Mon,3504,Paid,07:00,12:00,Yes,6,
+Launch Drive,07/19/2021,Mon,4174,Paid,12:00,17:00,Yes,11,
+Launch Drive,07/18/2021,Sun,5105,Paid,14:00,19:00,Yes,20,
+Old Kents Hill Road,07/18/2021,Sun,5353,Paid,14:00,19:00,Yes,1,
+Wilson Pond Road,07/18/2021,Sun,5386,Paid,14:00,19:00,Yes,2,
+Whippoorwill Road,07/18/2021,Sun,5304,Paid,14:00,19:00,Yes,3,
+Rt 41 North Basin Maranacook,07/18/2021,Sun,5001,Paid,14:00,19:00,No,0,
+East Winthrop,07/18/2021,Sun,3504,Paid,13:00,19:00,Yes,7,
+Augusta West Kampground,07/18/2021,Sun,4769,Paid,14:00,17:30,Yes,1,
+Beach Road,07/18/2021,Sun,4174,Paid,14:00,19:00,Yes,2,
+Norcross Point South Basin Maranacook,07/18/2021,Sun,3796,Paid,14:00,19:00,Yes,3,
+Old Kents Hill Road,07/17/2021,Sat,5368,Volunteer,07:00,09:00,Yes,1,
+Old Kents Hill Road,07/17/2021,Sat,4624,Volunteer,17:00,19:00,Yes,2,
+Wilson Pond Road,07/17/2021,Sat,5386,Paid,13:00,19:00,Yes,6,
+East Winthrop,07/17/2021,Sat,3504,Paid,13:00,19:00,Yes,23,
+Launch Drive,07/17/2021,Sat,4771,Paid,13:00,19:00,Yes,25,
+Old Kents Hill Road,07/17/2021,Sat,2092,Volunteer,15:00,17:00,Yes,2,
+Thorofare Rd,07/17/2021,Sat,4944,Paid,07:00,17:00,Yes,46,
+Augusta West Kampground,07/17/2021,Sat,4769,Paid,08:00,18:00,Yes,2,
+Wilson Pond Road,07/17/2021,Sat,4770,Paid,07:00,13:00,Yes,7,
+Rt 41 North Basin Maranacook,07/17/2021,Sat,5353,Paid,07:00,13:00,Yes,6,
+Launch Drive,07/17/2021,Sat,5105,Paid,07:00,13:00,Yes,36,
+Beach Road,07/17/2021,Sat,5306,Paid,07:00,13:00,Yes,21,
+East Winthrop,07/17/2021,Sat,5305,Paid,07:00,13:00,Yes,14,
+Old Kents Hill Road,07/17/2021,Sat,5411,Volunteer,11:00,13:00,Yes,2,
+Whippoorwill Road,07/17/2021,Sat,5354,Paid,07:00,13:00,Yes,8,
+Beach Road,07/17/2021,Sat,4174,Paid,13:00,19:00,Yes,13,
+Norcross Point South Basin Maranacook,07/17/2021,Sat,3796,Paid,07:00,17:00,Yes,31,
+Rt 41 North Basin Maranacook,07/17/2021,Sat,5006,Paid,13:00,19:00,Yes,11,
+Thorofare Rd,07/16/2021,Fri,5105,Paid,12:00,18:00,Yes,17,
+East Winthrop,07/16/2021,Fri,5402,Paid,12:00,18:00,Yes,12,
+Whippoorwill Road,07/16/2021,Fri,4771,Paid,12:00,18:00,Yes,32,
+Augusta West Kampground,07/16/2021,Fri,4769,Paid,12:00,18:00,Yes,3,
+Old Kents Hill Road,07/16/2021,Fri,5006,Paid,07:00,13:00,Yes,6,
+Launch Drive,07/16/2021,Fri,3504,Paid,07:00,12:00,Yes,15,
+Old Kents Hill Road,07/16/2021,Fri,1299,Volunteer,15:00,17:00,No,0,
+Launch Drive,07/16/2021,Fri,3796,Paid,12:00,18:00,Yes,27,
+Launch Drive,07/15/2021,Thu,4771,Paid,12:00,17:00,Yes,22,
+Old Kents Hill Road,07/15/2021,Thu,5006,Paid,07:00,12:00,Yes,6,
+Launch Drive,07/15/2021,Thu,5105,Paid,07:00,12:00,Yes,21,
+Launch Drive,07/14/2021,Wed,5305,Paid,07:00,11:00,No,0,
+Launch Drive,07/13/2021,Tue,4769,Paid,07:00,11:30,Yes,8,
+Launch Drive,07/13/2021,Tue,4174,Paid,12:45,17:00,Yes,9,
+Launch Drive,07/12/2021,Mon,3504,Paid,07:00,12:00,Yes,13,
+Launch Drive,07/12/2021,Mon,3796,Paid,12:00,17:00,Yes,24,
+Beach Road,07/11/2021,Sun,5306,Paid,07:00,13:00,Yes,20,
+Old Kents Hill Road,07/11/2021,Sun,1292,Volunteer,17:00,19:00,Yes,1,
+Old Kents Hill Road,07/11/2021,Sun,1299,Volunteer,15:00,17:00,No,0,
+Old Kents Hill Road,07/11/2021,Sun,1103,Volunteer,13:00,15:00,Yes,1,
+Augusta West Kampground,07/11/2021,Sun,5354,Paid,08:00,14:00,Yes,5,
+Norcross Point South Basin Maranacook,07/11/2021,Sun,4771,Paid,07:00,17:00,Yes,52,
+Old Kents Hill Road,07/11/2021,Sun,4624,Volunteer,11:00,13:00,Yes,3,
+East Winthrop,07/11/2021,Sun,5367,Paid,07:00,13:00,Yes,25,
+Rt 41 North Basin Maranacook,07/11/2021,Sun,5222,Paid,07:00,13:00,Yes,40,
+Beach Road,07/11/2021,Sun,4174,Paid,13:00,19:00,Yes,43,
+Whippoorwill Road,07/11/2021,Sun,5402,Paid,07:00,13:00,Yes,38,
+Wilson Pond Road,07/11/2021,Sun,4770,Paid,07:00,17:00,Yes,24,
+Old Kents Hill Road,07/11/2021,Sun,5150,Volunteer,15:00,17:00,Yes,2,
+Augusta West Kampground,07/11/2021,Sun,4769,Paid,14:00,20:00,Yes,2,
+Thorofare Rd,07/11/2021,Sun,4944,Paid,07:00,17:00,Yes,80,
+East Winthrop,07/11/2021,Sun,3504,Paid,13:00,19:00,Yes,47,
+Launch Drive,07/11/2021,Sun,5307,Paid,13:00,19:00,Yes,67,
+Launch Drive,07/11/2021,Sun,5001,Paid,07:00,13:00,Yes,57,
+Old Kents Hill Road,07/11/2021,Sun,1394,Volunteer,07:00,09:00,Yes,1,
+Whippoorwill Road,07/11/2021,Sun,5304,Paid,13:00,19:00,Yes,12,
+Beach Road,07/10/2021,Sat,5306,Paid,07:00,13:00,Yes,23,
+Launch Drive,07/10/2021,Sat,4174,Paid,13:00,19:00,Yes,74,
+Norcross Point South Basin Maranacook,07/10/2021,Sat,5354,Paid,07:00,17:25,Yes,21,
+Augusta West Kampground,07/10/2021,Sat,4769,Paid,08:00,18:00,Yes,7,
+Thorofare Rd,07/10/2021,Sat,4944,Paid,07:00,17:00,Yes,49,
+Old Kents Hill Road,07/10/2021,Sat,5006,Paid,13:00,19:00,Yes,13,
+Wilson Pond Road,07/10/2021,Sat,4770,Paid,07:00,17:00,Yes,13,
+Launch Drive,07/10/2021,Sat,5304,Paid,07:00,13:00,Yes,26,
+East Winthrop,07/10/2021,Sat,5367,Paid,07:00,13:00,Yes,18,
+Old Kents Hill Road,07/10/2021,Sat,5222,Paid,07:00,13:00,Yes,4,
+Whippoorwill Road,07/10/2021,Sat,4771,Paid,07:00,17:00,Yes,65,
+East Winthrop,07/10/2021,Sat,3504,Paid,13:00,19:00,Yes,29,
+Rt 41 North Basin Maranacook,07/10/2021,Sat,5353,Paid,13:00,19:00,Yes,31,
+Rt 41 North Basin Maranacook,07/10/2021,Sat,5305,Paid,07:00,13:00,Yes,15,
+Norcross Point South Basin Maranacook,07/08/2021,Thu,3796,Paid,07:00,15:00,Yes,3,
+Launch Drive,07/08/2021,Thu,5105,Paid,07:00,12:00,Yes,6,
+Old Kents Hill Road,07/08/2021,Thu,4769,Paid,07:00,12:00,No,0,
+Rt 41 North Basin Maranacook,07/08/2021,Thu,5305,Paid,07:00,15:00,Yes,1,
+Launch Drive,07/08/2021,Thu,5354,Paid,12:00,17:00,Yes,6,
+Old Kents Hill Road,07/08/2021,Thu,4771,Paid,12:00,16:30,No,0,
+Old Kents Hill Road,07/07/2021,Wed,1292,Volunteer,12:00,14:00,Yes,2,
+Norcross Point South Basin Maranacook,07/07/2021,Wed,3796,Paid,07:00,15:00,Yes,14,
+Old Kents Hill Road,07/07/2021,Wed,5150,Volunteer,16:00,18:00,No,0,
+Launch Drive,07/07/2021,Wed,4771,Paid,12:00,17:00,Yes,23,
+Old Kents Hill Road,07/07/2021,Wed,3089,Volunteer,14:00,16:00,No,0,
+Rt 41 North Basin Maranacook,07/07/2021,Wed,5353,Paid,07:00,15:00,Yes,10,
+Launch Drive,07/07/2021,Wed,4769,Paid,07:00,12:00,Yes,25,
+Old Kents Hill Road,07/06/2021,Tue,4771,Paid,12:00,17:00,Yes,8,
+Old Kents Hill Road,07/06/2021,Tue,5353,Paid,07:00,12:00,Yes,3,
+Launch Drive,07/06/2021,Tue,3504,Paid,07:00,12:00,Yes,11,
+Norcross Point South Basin Maranacook,07/06/2021,Tue,5354,Paid,07:00,15:00,Yes,9,
+Launch Drive,07/06/2021,Tue,4174,Paid,12:00,17:00,Yes,23,
+Rt 41 North Basin Maranacook,07/06/2021,Tue,5305,Paid,07:00,15:00,Yes,11,
+Rt 41 North Basin Maranacook,07/05/2021,Mon,5304,Paid,07:00,15:00,Yes,17,
+Thorofare Rd,07/05/2021,Mon,4944,Paid,07:00,17:00,Yes,91,
+Old Kents Hill Road,07/05/2021,Mon,5386,Paid,12:00,17:00,Yes,19,
+Launch Drive,07/05/2021,Mon,4769,Paid,07:00,12:00,Yes,28,
+Norcross Point South Basin Maranacook,07/05/2021,Mon,3796,Paid,07:00,15:00,Yes,32,
+Launch Drive,07/05/2021,Mon,4174,Paid,12:00,17:00,Yes,75,
+Old Kents Hill Road,07/05/2021,Mon,5305,Paid,07:00,12:00,Yes,8,
+Whippoorwill Road,07/04/2021,Sun,5304,Paid,13:00,13:30,No,0,
+Old Kents Hill Road,07/04/2021,Sun,5006,Paid,13:00,13:30,No,0,
+Rt 41 North Basin Maranacook,07/04/2021,Sun,5005,Paid,13:00,13:30,No,0,
+Wilson Pond Road,07/04/2021,Sun,4770,Paid,13:00,13:30,No,0,
+Launch Drive,07/04/2021,Sun,4715,Paid,13:00,13:30,No,0,
+Augusta West Kampground,07/03/2021,Sat,4769,Paid,14:00,20:00,Yes,2,
+Launch Drive,07/03/2021,Sat,4485,Paid,08:20,13:00,Yes,18,
+Thorofare Rd,07/03/2021,Sat,4944,Paid,07:00,17:00,Yes,20,
+Rt 41 North Basin Maranacook,07/03/2021,Sat,5305,Paid,13:00,19:00,Yes,10,
+Augusta West Kampground,07/03/2021,Sat,5354,Paid,08:00,14:00,Yes,4,
+Norcross Point South Basin Maranacook,07/03/2021,Sat,5386,Paid,13:00,19:00,Yes,6,
+Wilson Pond Road,07/03/2021,Sat,4770,Paid,07:00,17:00,Yes,7,
+Whippoorwill Road,07/03/2021,Sat,5304,Paid,13:00,19:00,Yes,6,
+Launch Drive,07/03/2021,Sat,4715,Paid,13:00,19:00,Yes,7,
+East Winthrop,07/03/2021,Sat,5367,Paid,07:00,13:00,Yes,7,
+Old Kents Hill Road,07/03/2021,Sat,4771,Paid,07:00,13:00,Yes,6,
+Whippoorwill Road,07/03/2021,Sat,5105,Paid,07:00,13:00,Yes,11,
+Rt 41 North Basin Maranacook,07/03/2021,Sat,5222,Paid,07:00,13:00,Yes,5,
+Old Kents Hill Road,07/03/2021,Sat,5006,Paid,13:00,19:00,Yes,9,
+Norcross Point South Basin Maranacook,07/03/2021,Sat,3796,Paid,07:00,13:00,Yes,13,
+Beach Road,07/03/2021,Sat,4174,Paid,07:00,16:00,Yes,10,
+East Winthrop,07/03/2021,Sat,3504,Paid,13:00,19:00,Yes,5,
+Old Kents Hill Road,07/02/2021,Fri,1292,Volunteer,08:00,10:00,Yes,1,
+Augusta West Kampground,07/02/2021,Fri,4769,Paid,12:00,16:00,No,0,
+Thorofare Rd,07/02/2021,Fri,5105,Paid,12:00,14:00,No,0,
+Old Kents Hill Road,07/02/2021,Fri,4771,Paid,12:00,14:15,Yes,2,
+Whippoorwill Road,07/02/2021,Fri,3504,Paid,12:00,14:00,No,0,
+East Winthrop,07/02/2021,Fri,4485,Paid,12:00,15:20,Yes,2,
+Launch Drive,07/02/2021,Fri,3796,Paid,12:00,16:00,Yes,11,
+Beach Road,06/27/2021,Sun,4174,Paid,15:00,19:00,Yes,32,
+Norcross Point South Basin Maranacook,06/27/2021,Sun,3796,Paid,07:00,17:00,Yes,44,
+Launch Drive,06/27/2021,Sun,3796,Paid,05:30,06:30,Yes,26,
+Whippoorwill Road,06/27/2021,Sun,5386,Paid,13:00,19:02,Yes,69,
+Launch Drive,06/27/2021,Sun,4485,Paid,07:00,13:00,Yes,50,
+Whippoorwill Road,06/27/2021,Sun,4771,Paid,07:00,13:00,Yes,51,
+Rt 41 North Basin Maranacook,06/27/2021,Sun,5354,Paid,07:00,17:35,Yes,37,
+Launch Drive,06/27/2021,Sun,5304,Paid,13:00,19:00,Yes,67,
+Old Kents Hill Road,06/27/2021,Sun,5222,Paid,13:00,19:00,Yes,3,
+Augusta West Kampground,06/27/2021,Sun,4769,Paid,08:00,18:00,Yes,15,
+East Winthrop,06/27/2021,Sun,3504,Paid,13:00,19:00,Yes,33,
+Thorofare Rd,06/27/2021,Sun,4944,Paid,07:00,17:00,Yes,78,
+East Winthrop,06/27/2021,Sun,5367,Paid,07:00,13:00,Yes,33,
+Wilson Pond Road,06/27/2021,Sun,4770,Paid,07:00,17:00,Yes,20,
+Norcross Point South Basin Maranacook,06/26/2021,Sat,3796,Paid,06:45,17:00,Yes,35,
+Wilson Pond Road,06/26/2021,Sat,4770,Paid,07:00,17:00,Yes,24,
+East Winthrop,06/26/2021,Sat,5367,Paid,07:00,13:00,Yes,4,
+Old Kents Hill Road,06/26/2021,Sat,5222,Paid,07:00,13:00,Yes,6,
+Whippoorwill Road,06/26/2021,Sat,4771,Paid,07:00,17:00,Yes,51,
+Launch Drive,06/26/2021,Sat,5304,Paid,13:00,19:00,Yes,26,
+Launch Drive,06/26/2021,Sat,4743,Paid,14:00,19:00,Yes,15,
+Thorofare Rd,06/26/2021,Sat,3504,Paid,08:30,18:30,Yes,73,
+Rt 41 North Basin Maranacook,06/26/2021,Sat,5354,Paid,07:00,17:10,Yes,10,
+Launch Drive,06/26/2021,Sat,4485,Paid,07:00,13:00,Yes,63,
+Augusta West Kampground,06/26/2021,Sat,4769,Paid,08:00,18:15,Yes,13,
+Old Kents Hill Road,06/26/2021,Sat,5006,Paid,13:00,19:00,Yes,3,
+Old Kents Hill Road,06/25/2021,Fri,1292,Volunteer,17:00,19:00,Yes,1,
+East Winthrop,06/25/2021,Fri,4485,Paid,12:00,18:00,Yes,7,
+Launch Drive,06/25/2021,Fri,3796,Paid,12:00,18:00,Yes,28,
+Thorofare Rd,06/25/2021,Fri,3504,Paid,12:00,18:00,Yes,17,
+Augusta West Kampground,06/25/2021,Fri,4769,Paid,12:00,18:00,Yes,7,
+Whippoorwill Road,06/25/2021,Fri,4771,Paid,12:00,18:00,Yes,9,
+East Winthrop,06/20/2021,Sun,5322,Paid,07:10,13:00,Yes,23,
+Whippoorwill Road,06/20/2021,Sun,4771,Paid,07:00,13:00,Yes,50,
+Old Kents Hill Road,06/20/2021,Sun,5222,Paid,07:00,13:00,Yes,10,
+Thorofare Rd,06/20/2021,Sun,4944,Paid,07:00,17:00,Yes,93,
+Launch Drive,06/20/2021,Sun,4485,Paid,07:00,13:00,Yes,72,
+Rt 41 North Basin Maranacook,06/20/2021,Sun,5353,Paid,13:00,19:00,Yes,43,
+Wilson Pond Road,06/20/2021,Sun,4770,Paid,07:00,17:00,Yes,19,
+Launch Drive,06/20/2021,Sun,5105,Paid,13:00,19:00,Yes,75,
+Augusta West Kampground,06/20/2021,Sun,4769,Paid,14:00,20:00,Yes,4,
+Rt 41 North Basin Maranacook,06/20/2021,Sun,5305,Paid,07:00,13:00,Yes,38,
+Beach Road,06/20/2021,Sun,4174,Paid,13:00,19:00,Yes,48,
+Augusta West Kampground,06/20/2021,Sun,4743,Paid,08:00,14:00,Yes,1,
+Old Kents Hill Road,06/20/2021,Sun,5006,Paid,13:00,19:00,Yes,11,
+Beach Road,06/20/2021,Sun,5306,Paid,07:00,13:00,Yes,30,
+Norcross Point South Basin Maranacook,06/20/2021,Sun,3796,Paid,07:00,17:00,Yes,51,
+East Winthrop,06/20/2021,Sun,5354,Paid,13:00,19:20,Yes,26,
+Whippoorwill Road,06/20/2021,Sun,5304,Paid,13:00,19:00,Yes,7,
+Augusta West Kampground,06/19/2021,Sat,4743,Paid,08:00,14:00,Yes,3,
+Whippoorwill Road,06/19/2021,Sat,4771,Paid,07:00,13:00,Yes,23,
+Launch Drive,06/19/2021,Sat,4485,Paid,07:00,13:00,Yes,22,
+East Winthrop,06/19/2021,Sat,5322,Paid,07:00,13:00,Yes,6,
+East Winthrop,06/19/2021,Sat,5354,Paid,13:00,19:20,Yes,15,
+Augusta West Kampground,06/19/2021,Sat,4769,Paid,14:00,20:00,No,0,
+Thorofare Rd,06/19/2021,Sat,4944,Paid,07:00,17:00,Yes,51,
+Rt 41 North Basin Maranacook,06/19/2021,Sat,5353,Paid,13:00,19:00,Yes,14,
+Old Kents Hill Road,06/19/2021,Sat,5222,Paid,13:00,19:00,Yes,3,
+Launch Drive,06/19/2021,Sat,5105,Paid,13:00,19:00,Yes,51,
+Wilson Pond Road,06/19/2021,Sat,4770,Paid,07:00,17:00,Yes,17,
+Whippoorwill Road,06/19/2021,Sat,5304,Paid,13:00,19:00,Yes,7,
+Old Kents Hill Road,06/19/2021,Sat,5006,Paid,07:00,13:00,Yes,5,
+Rt 41 North Basin Maranacook,06/19/2021,Sat,5305,Paid,07:00,13:00,Yes,6,
+Beach Road,06/19/2021,Sat,5306,Paid,07:00,13:00,Yes,19,
+Norcross Point South Basin Maranacook,06/19/2021,Sat,3796,Paid,07:00,17:00,Yes,21,
+Beach Road,06/19/2021,Sat,4174,Paid,13:00,19:00,Yes,19,
+Thorofare Rd,06/18/2021,Fri,5105,Paid,12:00,18:00,Yes,24,
+East Winthrop,06/18/2021,Fri,4485,Paid,12:00,18:00,Yes,14,
+Augusta West Kampground,06/18/2021,Fri,4769,Paid,12:00,18:00,Yes,1,
+Whippoorwill Road,06/18/2021,Fri,4771,Paid,12:00,18:00,Yes,34,
+Launch Drive,06/18/2021,Fri,3796,Paid,12:00,18:20,Yes,45,
+Whippoorwill Road,06/13/2021,Sun,5304,Paid,13:00,19:00,Yes,8,
+Norcross Point South Basin Maranacook,06/13/2021,Sun,3796,Paid,07:00,17:00,Yes,54,
+Rt 41 North Basin Maranacook,06/13/2021,Sun,5305,Paid,07:00,13:00,Yes,39,
+Beach Road,06/13/2021,Sun,4174,Paid,13:00,19:00,Yes,30,
+Augusta West Kampground,06/13/2021,Sun,4769,Paid,14:00,20:00,Yes,4,
+Launch Drive,06/13/2021,Sun,5105,Paid,13:00,19:00,Yes,88,
+Rt 41 North Basin Maranacook,06/13/2021,Sun,4743,Paid,13:00,19:00,Yes,34,
+East Winthrop,06/13/2021,Sun,4715,Paid,13:30,19:00,Yes,16,
+Wilson Pond Road,06/13/2021,Sun,4770,Paid,07:00,13:00,Yes,9,
+Whippoorwill Road,06/13/2021,Sun,4771,Paid,07:00,13:00,Yes,45,
+East Winthrop,06/13/2021,Sun,5322,Paid,07:00,13:00,Yes,19,
+Thorofare Rd,06/13/2021,Sun,4944,Paid,07:00,17:00,Yes,66,
+Augusta West Kampground,06/13/2021,Sun,5354,Paid,08:00,14:15,Yes,11,
+Launch Drive,06/13/2021,Sun,4485,Paid,07:00,13:00,Yes,61,
+Wilson Pond Road,06/13/2021,Sun,3504,Paid,13:00,19:00,Yes,17,
+Old Kents Hill Road,06/13/2021,Sun,5353,Paid,13:00,19:00,Yes,9,
+Old Kents Hill Road,06/13/2021,Sun,5006,Paid,07:00,13:00,Yes,11,
+Beach Road,06/13/2021,Sun,5306,Paid,07:30,13:00,Yes,22,
+Whippoorwill Road,06/12/2021,Sat,5304,Paid,13:00,19:00,Yes,12,
+Norcross Point South Basin Maranacook,06/12/2021,Sat,3796,Paid,07:00,17:00,Yes,35,
+Beach Road,06/12/2021,Sat,4174,Paid,07:00,17:15,Yes,28,
+Wilson Pond Road,06/12/2021,Sat,3504,Paid,13:00,19:00,Yes,15,
+Old Kents Hill Road,06/12/2021,Sat,5222,Paid,13:00,19:00,Yes,7,
+East Winthrop,06/12/2021,Sat,4715,Paid,13:00,19:00,Yes,10,
+Launch Drive,06/12/2021,Sat,5105,Paid,07:00,17:00,Yes,72,
+Augusta West Kampground,06/12/2021,Sat,4769,Paid,08:00,18:00,Yes,16,
+Rt 41 North Basin Maranacook,06/12/2021,Sat,4743,Paid,07:00,13:00,Yes,14,
+Whippoorwill Road,06/12/2021,Sat,4771,Paid,07:00,13:00,Yes,13,
+East Winthrop,06/12/2021,Sat,5322,Paid,07:00,13:00,Yes,11,
+Wilson Pond Road,06/12/2021,Sat,4770,Paid,07:00,13:00,Yes,6,
+Thorofare Rd,06/12/2021,Sat,4944,Paid,07:00,17:00,Yes,47,
+Rt 41 North Basin Maranacook,06/12/2021,Sat,5354,Paid,13:00,19:30,Yes,31,
+Old Kents Hill Road,06/12/2021,Sat,5006,Paid,07:00,13:00,Yes,5,
+Launch Drive,06/11/2021,Fri,3796,Paid,12:00,18:00,Yes,17,
+Whippoorwill Road,06/11/2021,Fri,4174,Paid,12:00,18:00,Yes,6,
+East Winthrop,06/11/2021,Fri,4485,Paid,12:00,18:00,No,0,
+Thorofare Rd,06/11/2021,Fri,5105,Paid,12:00,18:00,Yes,16,
+Augusta West Kampground,06/11/2021,Fri,4769,Paid,12:00,18:00,Yes,3,
+Whippoorwill Road,06/06/2021,Sun,5105,Paid,07:00,13:00,Yes,63,
+East Winthrop,06/06/2021,Sun,5322,Paid,07:00,13:00,Yes,20,
+Old Kents Hill Road,06/06/2021,Sun,5222,Paid,13:00,19:00,Yes,3,
+Wilson Pond Road,06/06/2021,Sun,4770,Paid,07:00,17:00,Yes,23,
+Launch Drive,06/06/2021,Sun,4771,Paid,13:00,19:00,Yes,78,
+Rt 41 North Basin Maranacook,06/06/2021,Sun,4743,Paid,13:00,19:00,Yes,40,
+East Winthrop,06/06/2021,Sun,4715,Paid,13:00,19:00,Yes,23,
+Thorofare Rd,06/06/2021,Sun,4944,Paid,07:00,15:00,Yes,74,
+Old Kents Hill Road,06/06/2021,Sun,5006,Paid,07:00,13:00,Yes,9,
+Launch Drive,06/06/2021,Sun,4485,Paid,07:00,14:00,Yes,65,
+Whippoorwill Road,06/06/2021,Sun,5304,Paid,13:00,19:00,Yes,9,
+Augusta West Kampground,06/06/2021,Sun,4769,Paid,08:00,18:00,Yes,8,
+Beach Road,06/06/2021,Sun,4174,Paid,13:00,19:00,Yes,49,
+Rt 41 North Basin Maranacook,06/06/2021,Sun,5305,Paid,07:00,13:00,Yes,45,
+Norcross Point South Basin Maranacook,06/06/2021,Sun,3796,Paid,07:00,17:00,Yes,51,
+Beach Road,06/06/2021,Sun,5306,Paid,07:30,13:00,Yes,18,
+Augusta West Kampground,06/05/2021,Sat,4769,Paid,08:00,18:00,Yes,9,
+East Winthrop,06/05/2021,Sat,4715,Paid,14:00,19:00,Yes,19,
+Old Kents Hill Road,06/05/2021,Sat,3504,Paid,13:00,19:00,Yes,26,
+East Winthrop,06/05/2021,Sat,5322,Paid,07:00,13:00,Yes,11,
+Launch Drive,06/05/2021,Sat,4485,Paid,07:00,17:00,Yes,105,
+Whippoorwill Road,06/05/2021,Sat,5304,Paid,07:00,17:00,Yes,34,
+Old Kents Hill Road,06/05/2021,Sat,5222,Paid,07:00,13:00,Yes,5,
+Rt 41 North Basin Maranacook,06/05/2021,Sat,4743,Paid,07:00,17:00,Yes,34,
+Thorofare Rd,06/05/2021,Sat,4944,Paid,07:00,17:00,Yes,69,
+Wilson Pond Road,06/05/2021,Sat,4770,Paid,07:00,17:00,Yes,19,
+Norcross Point South Basin Maranacook,06/05/2021,Sat,3796,Paid,07:00,17:00,Yes,62,
+Beach Road,06/05/2021,Sat,4174,Paid,12:00,19:00,Yes,47,
+Launch Drive,06/04/2021,Fri,3796,Paid,12:00,18:00,Yes,25,
+Whippoorwill Road,06/04/2021,Fri,4174,Paid,12:00,18:00,Yes,16,
+Augusta West Kampground,06/04/2021,Fri,4769,Paid,12:00,18:00,Yes,1,
+Thorofare Rd,06/04/2021,Fri,3504,Paid,12:00,18:00,Yes,17,
+East Winthrop,06/04/2021,Fri,4485,Paid,12:00,18:00,Yes,5,
+Thorofare Rd,05/30/2021,Sun,4944,Paid,07:00,14:30,Yes,13,
+Old Kents Hill Road,05/30/2021,Sun,3504,Paid,13:00,14:35,Yes,2,
+Wilson Pond Road,05/30/2021,Sun,4770,Paid,07:00,15:00,Yes,8,
+Launch Drive,05/30/2021,Sun,4771,Paid,07:00,14:30,Yes,12,
+Norcross Point South Basin Maranacook,05/30/2021,Sun,3796,Paid,07:00,15:00,Yes,4,
+East Winthrop,05/30/2021,Sun,5322,Paid,07:00,13:00,Yes,4,
+East Winthrop,05/30/2021,Sun,4715,Paid,13:00,15:33,Yes,7,
+Beach Road,05/30/2021,Sun,4174,Paid,07:00,15:00,Yes,4,
+Rt 41 North Basin Maranacook,05/30/2021,Sun,5005,Paid,13:00,18:00,Yes,3,
+Whippoorwill Road,05/30/2021,Sun,5105,Paid,07:00,17:00,Yes,9,
+Rt 41 North Basin Maranacook,05/30/2021,Sun,5305,Paid,07:00,13:00,Yes,3,
+Old Kents Hill Road,05/30/2021,Sun,5006,Paid,07:00,13:00,Yes,5,
+Rt 41 North Basin Maranacook,05/29/2021,Sat,5005,Paid,13:00,19:00,Yes,12,
+Launch Drive,05/29/2021,Sat,4771,Paid,07:00,17:00,Yes,17,
+Wilson Pond Road,05/29/2021,Sat,4770,Paid,07:00,17:00,Yes,2,
+East Winthrop,05/29/2021,Sat,4715,Paid,13:00,19:00,Yes,8,
+Norcross Point South Basin Maranacook,05/29/2021,Sat,3796,Paid,07:00,17:00,Yes,8,
+East Winthrop,05/29/2021,Sat,5322,Paid,07:00,13:00,Yes,3,
+Rt 41 North Basin Maranacook,05/29/2021,Sat,5305,Paid,01:00,13:00,Yes,11,
+Beach Road,05/29/2021,Sat,4174,Paid,07:00,17:00,Yes,11,
+Old Kents Hill Road,05/29/2021,Sat,5006,Paid,07:00,13:00,Yes,11,
+Augusta West Kampground,05/29/2021,Sat,4769,Paid,08:00,18:00,Yes,11,
+Old Kents Hill Road,05/29/2021,Sat,3504,Paid,13:00,19:00,Yes,10,
+Whippoorwill Road,05/29/2021,Sat,5105,Paid,07:00,17:00,Yes,8,
+Thorofare Rd,05/29/2021,Sat,4944,Paid,07:00,17:00,Yes,11,
+Whippoorwill Road,05/28/2021,Fri,4174,Paid,12:00,18:00,Yes,13,
+Augusta West Kampground,05/28/2021,Fri,4769,Paid,12:00,18:00,Yes,1,
+East Winthrop,05/28/2021,Fri,4485,Paid,12:00,18:00,Yes,2,
+Launch Drive,05/28/2021,Fri,4771,Paid,12:00,18:00,Yes,33,
+Augusta West Kampground,07/01/2022,Fri,4174,Paid,12:00,18:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,07/01/2022,Fri,5655,Paid,14:00,15:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/01/2022,Fri,5656,Paid,15:00,16:30,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/01/2022,Fri,5653,Paid,11:00,13:00,Yes,2,0
+Launch Drive Cobbosseecontee,07/01/2022,Fri,2169,Paid,09:00,19:00,Yes,71,0
+East Winthrop Cobbosseecontee,06/30/2022,Thu,5586,Paid,07:00,13:00,Yes,2,0
+Launch Drive Cobbosseecontee,06/30/2022,Thu,5637,Volunteer,04:55,07:30,Yes,2,0
+Lakeside Marina Cobbosseecontee,06/30/2022,Thu,5698,Paid,11:00,12:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,06/30/2022,Thu,5667,Paid,17:00,17:05,Yes,1,0
+Launch Drive Cobbosseecontee,06/30/2022,Thu,2169,Paid,09:00,19:00,Yes,27,0
+Lakeside Marina Cobbosseecontee,06/29/2022,Wed,5654,Paid,19:00,20:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,06/29/2022,Wed,5652,Paid,10:00,12:00,Yes,3,0
+Launch Drive Cobbosseecontee,06/29/2022,Wed,5580,Paid,07:00,13:00,Yes,9,0
+East Winthrop Cobbosseecontee,06/29/2022,Wed,5633,Paid,06:59,13:00,Yes,4,0
+East Winthrop Cobbosseecontee,06/29/2022,Wed,5573,Paid,13:00,19:00,Yes,4,0
+Launch Drive Cobbosseecontee,06/28/2022,Tue,5637,Paid,04:50,07:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,06/28/2022,Tue,5654,Paid,08:00,09:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,06/28/2022,Tue,5642,Volunteer,08:00,10:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,06/28/2022,Tue,4729,Paid,10:00,12:00,Yes,2,0
+East Winthrop Cobbosseecontee,06/28/2022,Tue,5586,Paid,07:00,13:00,Yes,2,0
+Launch Drive Cobbosseecontee,06/28/2022,Tue,5580,Paid,07:00,13:00,Yes,10,0
+East Winthrop Cobbosseecontee,06/28/2022,Tue,3504,Paid,13:00,19:00,Yes,9,0
+Launch Drive Cobbosseecontee,06/28/2022,Tue,5581,Paid,13:00,19:00,Yes,8,0
+East Winthrop Cobbosseecontee,06/27/2022,Mon,5573,Paid,14:00,19:00,Yes,3,0
+Launch Drive Cobbosseecontee,06/27/2022,Mon,5581,Paid,13:00,19:00,Yes,1,0
+Launch Drive Cobbosseecontee,06/27/2022,Mon,5637,Volunteer,05:00,09:00,Yes,28,0
+Launch Drive Cobbosseecontee,06/27/2022,Mon,5580,Paid,07:00,11:40,Yes,1,0
+Lakeside Marina Cobbosseecontee,06/26/2022,Sun,5652,Paid,19:00,20:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,06/26/2022,Sun,5657,Paid,18:38,19:00,Yes,1,0
+Thorofare Rd,06/26/2022,Sun,2169,Paid,13:00,19:00,Yes,32,0
+Augusta West Kampground,06/26/2022,Sun,4174,Paid,14:00,20:00,Yes,8,0
+Thorofare Rd,06/26/2022,Sun,4944,Paid,07:00,13:00,Yes,36,0
+Launch Drive Cobbosseecontee,06/26/2022,Sun,5105,Paid,07:00,13:00,Yes,45,0
+East Winthrop Cobbosseecontee,06/26/2022,Sun,5581,Paid,13:00,19:00,Yes,33,0
+Rt 41 North Basin Maranacook,06/26/2022,Sun,5353,Paid,07:00,13:00,Yes,19,0
+Wilson Pond Road,06/26/2022,Sun,3504,Paid,07:00,17:00,Yes,30,0
+Norcross Point South Basin Maranacook,06/26/2022,Sun,5006,Paid,07:00,17:00,Yes,39,0
+Old Kents Hill Road,06/26/2022,Sun,5577,Paid,07:00,13:00,Yes,8,0
+Rt 41 North Basin Maranacook,06/26/2022,Sun,5573,Paid,13:00,19:00,Yes,27,0
+Beach Road,06/26/2022,Sun,5622,Paid,07:00,18:00,Yes,23,0
+East Winthrop Cobbosseecontee,06/26/2022,Sun,5305,Paid,07:00,13:00,Yes,22,0
+Launch Drive Cobbosseecontee,06/26/2022,Sun,5637,Volunteer,05:05,07:00,Yes,3,0
+Whippoorwill Road,06/26/2022,Sun,5586,Paid,07:00,17:00,Yes,74,0
+Norcross Point South Basin Maranacook,06/25/2022,Sat,5577,Paid,13:00,19:00,Yes,26,0
+Thorofare Rd,06/25/2022,Sat,4944,Paid,07:00,19:00,Yes,65,0
+Launch Drive Cobbosseecontee,06/25/2022,Sat,3796,Paid,13:00,19:00,Yes,70,0
+Launch Drive Cobbosseecontee,06/25/2022,Sat,5305,Paid,07:00,13:00,Yes,44,0
+Launch Drive Cobbosseecontee,06/24/2022,Fri,2169,Paid,09:00,17:00,Yes,27,0
+East Winthrop Cobbosseecontee,06/24/2022,Fri,5633,Paid,13:09,19:10,Yes,15,5
+Thorofare Rd,06/24/2022,Fri,5586,Paid,12:00,18:00,Yes,32,0
+Whippoorwill Road,06/24/2022,Fri,3504,Paid,12:00,18:00,Yes,27,0
+East Winthrop Cobbosseecontee,06/24/2022,Fri,5581,Paid,07:00,13:00,Yes,6,1
+Lakeside Marina Cobbosseecontee,06/23/2022,Thu,5654,Paid,11:30,14:40,Yes,5,0
+Lakeside Marina Cobbosseecontee,06/23/2022,Thu,5657,Paid,19:00,20:00,Yes,1,0
+Launch Drive Cobbosseecontee,06/23/2022,Thu,2169,Paid,09:00,19:00,Yes,11,0
+East Winthrop Cobbosseecontee,06/23/2022,Thu,5633,Paid,13:00,19:00,Yes,3,1
+Launch Drive Cobbosseecontee,06/23/2022,Thu,5637,Volunteer,05:00,08:30,Yes,2,0
+East Winthrop Cobbosseecontee,06/23/2022,Thu,5580,Paid,07:00,13:00,Yes,3,0
+Launch Drive Cobbosseecontee,06/22/2022,Wed,5580,Paid,07:00,13:00,Yes,14,0
+East Winthrop Cobbosseecontee,06/22/2022,Wed,5305,Paid,07:00,14:00,Yes,6,0
+Wilson Pond Road,06/22/2022,Wed,5632,Volunteer,08:20,09:05,No,0,
+Whippoorwill Road,07/08/2022,Fri,5402,Paid,12:00,18:00,Yes,34,0
+Launch Drive Cobbosseecontee,07/08/2022,Fri,5637,Paid,05:00,09:00,Yes,8,0
+Lakeside Marina Cobbosseecontee,07/08/2022,Fri,5654,Paid,07:00,12:00,Yes,3,0
+Old Kents Hill Road,07/08/2022,Fri,5648,Paid,07:00,13:00,Yes,2,0
+Old Kents Hill Road,07/08/2022,Fri,5622,Paid,13:00,19:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/07/2022,Thu,5652,Paid,08:30,20:00,Yes,10,0
+Launch Drive Cobbosseecontee,07/07/2022,Thu,5637,Volunteer,04:52,08:30,Yes,8,0
+Whippoorwill Road,07/07/2022,Thu,5402,Paid,12:00,18:00,Yes,32,0
+Old Kents Hill Road,07/07/2022,Thu,5586,Paid,13:00,17:00,Yes,6,0
+Launch Drive Cobbosseecontee,07/07/2022,Thu,2169,Paid,09:00,19:00,Yes,37,0
+Thorofare Rd,07/08/2022,Fri,5586,Paid,12:00,18:00,Yes,12,0
+East Winthrop Cobbosseecontee,07/08/2022,Fri,5588,Paid,07:00,13:00,Yes,8,1
+East Winthrop Cobbosseecontee,07/08/2022,Fri,5644,Paid,13:00,19:00,Yes,6,0
+Augusta West Kampground,07/08/2022,Fri,4174,Paid,12:00,18:00,Yes,5,0
+Launch Drive Cobbosseecontee,07/08/2022,Fri,2169,Paid,09:00,19:00,Yes,52,0
+Lakeside Marina Cobbosseecontee,07/07/2022,Thu,5654,Paid,18:00,19:00,Yes,2,0
+East Winthrop Cobbosseecontee,07/07/2022,Thu,5580,Paid,09:00,19:00,Yes,13,1
+Old Kents Hill Road,07/07/2022,Thu,5648,Paid,07:00,13:00,Yes,2,0
+Old Kents Hill Road,07/06/2022,Wed,5644,Paid,13:00,19:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/06/2022,Wed,5657,Paid,14:00,19:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,07/06/2022,Wed,5653,Paid,09:00,12:00,Yes,2,0
+Launch Drive Cobbosseecontee,07/06/2022,Wed,5637,Paid,05:00,07:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/06/2022,Wed,5698,Paid,07:00,20:00,Yes,1,0
+Launch Drive Cobbosseecontee,07/06/2022,Wed,5648,Paid,13:00,19:00,Yes,4,0
+East Winthrop Cobbosseecontee,07/06/2022,Wed,5633,Paid,13:00,19:00,Yes,12,3
+East Winthrop Cobbosseecontee,07/06/2022,Wed,5588,Paid,07:00,13:00,Yes,2,0
+Old Kents Hill Road,07/06/2022,Wed,5006,Paid,07:00,13:00,No,0,
+Rt 41 North Basin Maranacook,07/06/2022,Wed,5622,Paid,07:00,17:00,Yes,28,0
+East Winthrop Cobbosseecontee,07/05/2022,Tue,5581,Paid,13:00,19:00,Yes,3,0
+East Winthrop Cobbosseecontee,07/05/2022,Tue,5586,Paid,07:00,13:00,Yes,5,0
+Launch Drive Cobbosseecontee,07/05/2022,Tue,5637,Paid,04:55,07:20,Yes,3,0
+Lakeside Marina Cobbosseecontee,07/05/2022,Tue,5652,Paid,09:00,15:00,Yes,4,0
+Old Kents Hill Road,07/05/2022,Tue,5588,Paid,13:00,19:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/05/2022,Tue,5655,Paid,16:00,18:00,Yes,2,0
+Launch Drive Cobbosseecontee,07/05/2022,Tue,5580,Paid,13:00,19:00,Yes,13,0
+Old Kents Hill Road,07/05/2022,Tue,5006,Paid,07:00,13:00,Yes,5,0
+Launch Drive Cobbosseecontee,07/05/2022,Tue,3504,Paid,06:45,12:45,Yes,11,0
+Lakeside Marina Cobbosseecontee,07/05/2022,Tue,4729,Paid,10:00,12:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/05/2022,Tue,5653,Paid,13:00,14:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/05/2022,Tue,5654,Paid,19:00,20:00,Yes,2,0
+Launch Drive Cobbosseecontee,07/04/2022,Mon,5637,Volunteer,05:00,06:55,Yes,3,0
+Old Kents Hill Road,07/04/2022,Mon,2091,Volunteer,15:00,17:09,Yes,3,0
+Old Kents Hill Road,07/04/2022,Mon,1292,Volunteer,17:00,19:00,No,0,
+Launch Drive Cobbosseecontee,07/04/2022,Mon,5580,Paid,07:00,13:00,Yes,41,0
+Old Kents Hill Road,07/04/2022,Mon,5006,Paid,07:00,13:00,Yes,11,0
+Whippoorwill Road,07/04/2022,Mon,5402,Paid,07:00,13:00,Yes,31,0
+Augusta West Kampground,07/04/2022,Mon,5577,Paid,08:00,14:00,Yes,6,0
+Lakeside Marina Cobbosseecontee,07/04/2022,Mon,5656,Paid,09:00,20:00,Yes,3,0
+Beach Road,07/04/2022,Mon,4174,Paid,13:00,19:00,Yes,17,0
+Wilson Pond Road,07/04/2022,Mon,3504,Paid,06:45,17:00,Yes,16,0
+Norcross Point South Basin Maranacook,07/04/2022,Mon,5633,Paid,07:00,17:07,Yes,36,6
+Augusta West Kampground,07/04/2022,Mon,5644,Paid,14:00,20:00,Yes,9,0
+East Winthrop Cobbosseecontee,07/04/2022,Mon,5581,Paid,13:00,19:00,Yes,11,0
+East Winthrop Cobbosseecontee,07/04/2022,Mon,5586,Paid,07:00,13:00,Yes,16,0
+Launch Drive Cobbosseecontee,07/04/2022,Mon,5582,Paid,13:00,19:00,Yes,51,1
+East Winthrop Cobbosseecontee,07/03/2022,Sun,5588,Paid,07:00,13:00,Yes,23,5
+Rt 41 North Basin Maranacook,07/03/2022,Sun,5582,Paid,12:30,13:00,Yes,1,0
+Launch Drive Cobbosseecontee,07/03/2022,Sun,5637,Volunteer,04:55,06:58,Yes,4,0
+Rt 41 North Basin Maranacook,07/03/2022,Sun,5353,Paid,07:00,10:00,Yes,11,0
+Launch Drive Cobbosseecontee,07/03/2022,Sun,5648,Paid,13:00,18:00,Yes,69,0
+Thorofare Rd,07/03/2022,Sun,4944,Paid,07:00,17:00,Yes,54,0
+Whippoorwill Road,07/03/2022,Sun,5586,Paid,07:00,13:00,Yes,37,0
+Augusta West Kampground,07/03/2022,Sun,5577,Paid,08:00,14:00,Yes,8,0
+Old Kents Hill Road,07/03/2022,Sun,5006,Paid,07:00,17:00,Yes,10,0
+Whippoorwill Road,07/03/2022,Sun,3796,Paid,13:00,17:00,Yes,61,0
+Norcross Point South Basin Maranacook,07/03/2022,Sun,5581,Paid,09:00,17:00,Yes,17,0
+East Winthrop Cobbosseecontee,07/03/2022,Sun,5580,Paid,13:00,19:00,Yes,39,12
+Rt 41 North Basin Maranacook,07/03/2022,Sun,5402,Paid,13:00,19:00,Yes,26,0
+Augusta West Kampground,07/03/2022,Sun,4174,Paid,14:00,20:00,Yes,13,0
+Lakeside Marina Cobbosseecontee,07/03/2022,Sun,5658,Paid,13:00,17:00,Yes,4,0
+Lakeside Marina Cobbosseecontee,07/03/2022,Sun,5653,Paid,08:00,19:00,Yes,4,0
+Whippoorwill Road,07/02/2022,Sat,5402,Paid,07:00,17:00,Yes,31,0
+East Winthrop Cobbosseecontee,07/02/2022,Sat,5581,Paid,13:00,19:00,Yes,11,0
+Augusta West Kampground,07/02/2022,Sat,5644,Paid,08:00,18:00,Yes,15,0
+Augusta West Kampground,07/02/2022,Sat,5582,Paid,12:00,13:00,Yes,2,0
+Launch Drive Cobbosseecontee,07/02/2022,Sat,5637,Volunteer,05:10,07:10,Yes,2,0
+Wilson Pond Road,07/02/2022,Sat,5622,Paid,07:00,18:00,Yes,7,0
+Norcross Point South Basin Maranacook,07/02/2022,Sat,5006,Paid,07:00,17:00,Yes,19,0
+Old Kents Hill Road,07/02/2022,Sat,5588,Paid,07:15,17:15,Yes,8,0
+Rt 41 North Basin Maranacook,07/02/2022,Sat,5573,Paid,07:00,17:00,Yes,23,0
+Launch Drive Cobbosseecontee,07/02/2022,Sat,5580,Paid,07:00,17:00,Yes,47,0
+Beach Road,07/02/2022,Sat,4174,Paid,07:00,14:00,Yes,7,0
+Lakeside Marina Cobbosseecontee,07/02/2022,Sat,5657,Paid,10:00,14:00,Yes,3,0
+Thorofare Rd,07/02/2022,Sat,2169,Paid,13:00,19:00,Yes,10,0
+Thorofare Rd,07/02/2022,Sat,4944,Paid,07:00,13:00,Yes,8,0
+East Winthrop Cobbosseecontee,07/01/2022,Fri,5588,Paid,07:00,13:00,Yes,4,3
+Thorofare Rd,07/01/2022,Fri,5586,Paid,12:00,18:00,Yes,19,0
+Whippoorwill Road,07/01/2022,Fri,3504,Paid,12:00,18:00,Yes,37,0
+East Winthrop Cobbosseecontee,07/01/2022,Fri,5573,Paid,13:00,19:00,Yes,11,0
+East Winthrop Cobbosseecontee,06/30/2022,Thu,5588,Paid,13:00,19:00,Yes,6,1
+Launch Drive Cobbosseecontee,06/29/2022,Wed,5581,Paid,13:00,19:00,Yes,8,0
+Lakeside Marina Cobbosseecontee,06/26/2022,Sun,5654,Paid,11:00,12:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,06/25/2022,Sat,5652,Paid,12:00,15:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,06/25/2022,Sat,5654,Paid,15:00,22:00,Yes,4,0
+Lakeside Marina Cobbosseecontee,06/25/2022,Sat,5657,Paid,10:00,12:00,Yes,3,0
+Whippoorwill Road,06/25/2022,Sat,2169,Paid,13:00,19:00,Yes,55,0
+Augusta West Kampground,06/25/2022,Sat,4174,Paid,08:00,18:00,Yes,16,0
+Norcross Point South Basin Maranacook,06/25/2022,Sat,5006,Paid,07:00,13:00,Yes,30,0
+Beach Road,06/25/2022,Sat,5622,Paid,07:00,18:00,Yes,19,0
+Wilson Pond Road,06/25/2022,Sat,3504,Paid,07:00,17:00,Yes,20,0
+Old Kents Hill Road,06/25/2022,Sat,5633,Paid,07:06,17:00,Yes,21,0
+Rt 41 North Basin Maranacook,06/25/2022,Sat,5580,Paid,07:00,17:00,Yes,54,0
+Augusta West Kampground,06/24/2022,Fri,4174,Paid,12:00,18:00,Yes,7,0
+Wilson Pond Road,06/22/2022,Wed,5631,Volunteer,08:20,09:05,No,0,
+Launch Drive Cobbosseecontee,06/22/2022,Wed,3504,Paid,12:45,18:45,Yes,9,0
+Launch Drive Cobbosseecontee,06/21/2022,Tue,5579,Paid,06:54,14:01,Yes,12,0
+Launch Drive Cobbosseecontee,06/20/2022,Mon,5579,Paid,06:50,13:09,Yes,12,0
+East Winthrop Cobbosseecontee,06/20/2022,Mon,5573,Paid,07:00,13:00,Yes,2,0
+Launch Drive Cobbosseecontee,06/20/2022,Mon,5105,Paid,13:15,18:15,Yes,14,0
+East Winthrop Cobbosseecontee,06/20/2022,Mon,5588,Paid,13:00,19:00,Yes,6,0
+Wilson Pond Road,06/19/2022,Sun,4174,Paid,13:00,19:00,Yes,1,0
+Launch Drive Cobbosseecontee,06/19/2022,Sun,3796,Paid,13:00,19:00,Yes,5,0
+East Winthrop Cobbosseecontee,06/19/2022,Sun,5402,Paid,13:00,19:00,Yes,2,0
+Norcross Point South Basin Maranacook,06/19/2022,Sun,5006,Paid,07:00,17:00,Yes,5,0
+Rt 41 North Basin Maranacook,06/19/2022,Sun,5586,Paid,13:00,19:00,No,0,
+Augusta West Kampground,06/19/2022,Sun,5105,Paid,08:00,18:00,Yes,3,0
+East Winthrop Cobbosseecontee,06/19/2022,Sun,5573,Paid,07:00,13:00,Yes,1,0
+Whippoorwill Road,06/19/2022,Sun,3504,Paid,06:45,16:45,Yes,4,0
+Launch Drive Cobbosseecontee,06/19/2022,Sun,5582,Paid,07:00,13:00,Yes,10,0
+Beach Road,06/19/2022,Sun,5622,Paid,07:00,13:00,No,0,
+Thorofare Rd,06/19/2022,Sun,4944,Paid,07:00,13:00,Yes,5,0
+Augusta West Kampground,06/18/2022,Sat,4174,Paid,08:00,17:11,Yes,3,0
+Launch Drive Cobbosseecontee,06/18/2022,Sat,5402,Paid,07:00,13:00,Yes,16,0
+Whippoorwill Road,06/18/2022,Sat,5586,Paid,07:00,17:00,Yes,23,0
+Norcross Point South Basin Maranacook,06/18/2022,Sat,5006,Paid,07:00,17:00,Yes,11,0
+Rt 41 North Basin Maranacook,06/18/2022,Sat,5573,Paid,07:00,17:00,Yes,9,0
+Launch Drive Cobbosseecontee,06/18/2022,Sat,3796,Paid,13:00,19:00,Yes,10,0
+Beach Road,06/18/2022,Sat,5577,Paid,13:00,19:00,Yes,4,0
+East Winthrop Cobbosseecontee,06/18/2022,Sat,5581,Paid,09:30,15:00,Yes,3,0
+Old Kents Hill Road,06/18/2022,Sat,5622,Paid,07:00,13:00,No,0,
+Old Kents Hill Road,06/18/2022,Sat,5588,Paid,13:00,19:00,No,1,
+Augusta West Kampground,06/17/2022,Fri,4174,Paid,12:00,18:00,Yes,5,0
+East Winthrop Cobbosseecontee,06/17/2022,Fri,5586,Paid,09:00,19:00,Yes,12,0
+Thorofare Rd,06/17/2022,Fri,5579,Paid,11:54,18:05,Yes,19,0
+Whippoorwill Road,06/17/2022,Fri,3504,Paid,11:30,17:30,Yes,6,0
+Launch Drive Cobbosseecontee,06/17/2022,Tue,2169,Paid,09:00,19:00,Yes,20,0
+East Winthrop Cobbosseecontee,06/16/2022,Thu,5586,Paid,13:00,19:00,Yes,1,0
+East Winthrop Cobbosseecontee,06/16/2022,Thu,5579,Paid,06:58,12:51,Yes,3,1
+Launch Drive Cobbosseecontee,06/16/2022,Tue,2169,Paid,09:00,19:00,No,10,0
+Launch Drive Cobbosseecontee,06/15/2022,Wed,5618,Paid,13:00,19:00,Yes,4,0
+East Winthrop Cobbosseecontee,06/15/2022,Wed,5580,Paid,10:00,20:00,Yes,11,0
+East Winthrop Cobbosseecontee,06/14/2022,Tue,5618,Paid,09:00,19:00,Yes,2,0
+Launch Drive Cobbosseecontee,06/14/2022,Tue,5305,Paid,07:00,13:00,Yes,13,0
+Launch Drive Cobbosseecontee,06/14/2022,Tue,5580,Paid,13:00,19:00,Yes,16,0
+Beach Road,06/13/2022,Mon,5006,Paid,13:00,19:00,Yes,7,0
+Beach Road,06/13/2022,Mon,5580,Paid,07:00,13:00,Yes,3,0
+Wilson Pond Road,06/12/2022,Sun,5305,Paid,07:00,17:00,Yes,24,0
+Rt 41 North Basin Maranacook,06/12/2022,Sun,5580,Paid,13:00,19:00,Yes,32,2
+Norcross Point South Basin Maranacook,06/12/2022,Sun,5006,Paid,07:00,19:00,Yes,34,0
+Whippoorwill Road,06/12/2022,Sun,3504,Paid,11:45,17:45,Yes,43,0
+Old Kents Hill Road,06/12/2022,Sun,5573,Paid,13:00,19:00,Yes,7,0
+Rt 41 North Basin Maranacook,06/12/2022,Sun,5353,Paid,07:00,13:00,Yes,22,0
+Old Kents Hill Road,06/12/2022,Sun,5588,Paid,07:00,13:00,Yes,5,0
+Launch Drive Cobbosseecontee,06/12/2022,Sun,5618,Paid,07:00,13:00,Yes,23,0
+Thorofare Rd,06/12/2022,Sun,4944,Paid,07:00,13:00,Yes,29,0
+Augusta West Kampground,06/12/2022,Sun,4174,Paid,08:00,18:00,Yes,10,0
+Old Kents Hill Road,06/11/2022,Sat,1292,Volunteer,17:00,19:00,Yes,2,0
+Old Kents Hill Road,06/11/2022,Sat,1394,Volunteer,13:00,15:00,Yes,5,0
+Old Kents Hill Road,06/11/2022,Sat,2096,Volunteer,15:00,17:00,Yes,4,0
+Wilson Pond Road,06/11/2022,Sat,5305,Paid,07:00,13:00,Yes,12,0
+Thorofare Rd,06/11/2022,Sat,4944,Paid,07:00,13:00,Yes,17,0
+Launch Drive Cobbosseecontee,06/11/2022,Sat,5005,Paid,13:00,19:00,Yes,32,0
+Rt 41 North Basin Maranacook,06/11/2022,Sat,5588,Paid,13:00,19:00,Yes,17,0
+Norcross Point South Basin Maranacook,06/11/2022,Sat,5006,Paid,07:00,19:00,Yes,28,0
+Launch Drive Cobbosseecontee,06/11/2022,Sat,5618,Paid,07:00,13:00,Yes,24,0
+Whippoorwill Road,06/11/2022,Sat,3504,Paid,06:45,16:45,Yes,42,0
+East Winthrop Cobbosseecontee,06/11/2022,Sat,5619,Paid,07:00,13:05,Yes,7,0
+Old Kents Hill Road,06/11/2022,Sat,5353,Paid,07:00,13:00,Yes,12,0
+Beach Road,06/11/2022,Sat,5306,Paid,07:00,13:00,Yes,9,0
+Rt 41 North Basin Maranacook,06/11/2022,Sat,5573,Paid,07:00,13:00,Yes,19,0
+Thorofare Rd,06/11/2022,Tue,2169,Paid,13:00,19:00,Yes,24,0
+East Winthrop Cobbosseecontee,06/10/2022,Fri,5006,Paid,12:00,19:00,Yes,10,1
+Whippoorwill Road,06/10/2022,Fri,3504,Paid,11:50,17:50,Yes,14,0
+Augusta West Kampground,06/10/2022,Fri,4174,Paid,12:00,18:00,Yes,2,0
+Launch Drive Cobbosseecontee,06/10/2022,Fri,2169,Paid,09:00,19:00,Yes,46,0
+Launch Drive Cobbosseecontee,06/09/2022,Thu,2169,Paid,09:20,19:00,Yes,8,0
+Launch Drive Cobbosseecontee,06/08/2022,Wed,3504,Paid,11:44,17:45,Yes,3,0
+Launch Drive Cobbosseecontee,06/07/2022,Tue,3504,Paid,08:45,18:45,Yes,27,0
+Launch Drive Cobbosseecontee,06/06/2022,Mon,2169,Paid,09:00,19:00,Yes,8,0
+Thorofare Rd,06/05/2022,Sun,4944,Paid,07:00,13:00,Yes,21,0
+Old Kents Hill Road,06/05/2022,Sun,5353,Paid,07:00,13:00,Yes,8,0
+Beach Road,06/05/2022,Sun,5306,Paid,07:00,13:00,Yes,15,0
+Thorofare Rd,06/05/2022,Sun,2169,Paid,13:00,19:00,Yes,33,0
+Norcross Point South Basin Maranacook,06/05/2022,Sun,5580,Paid,07:00,17:00,Yes,25,0
+Launch Drive Cobbosseecontee,06/05/2022,Sun,5585,Paid,07:00,17:00,Yes,29,0
+Augusta West Kampground,06/05/2022,Sun,4174,Paid,08:00,18:00,Yes,10,0
+Old Kents Hill Road,06/05/2022,Sun,5588,Paid,13:00,19:00,Yes,9,0
+Whippoorwill Road,06/05/2022,Sun,3504,Paid,07:00,17:00,Yes,57,0
+Thorofare Rd,06/04/2022,Sat,2169,Paid,07:00,13:00,Yes,10,0
+Old Kents Hill Road,06/04/2022,Sat,1290,Volunteer,17:00,19:00,Yes,2,0
+Old Kents Hill Road,06/04/2022,Sat,2096,Volunteer,11:00,15:00,Yes,7,0
+Thorofare Rd,06/04/2022,Sat,4944,Paid,13:00,19:00,Yes,18,0
+Old Kents Hill Road,06/04/2022,Sat,2092,Volunteer,15:00,17:00,Yes,2,0
+Old Kents Hill Road,06/04/2022,Sat,5145,Volunteer,09:00,11:00,No,0,
+Old Kents Hill Road,06/04/2022,Sat,1290,Volunteer,07:00,09:00,Yes,1,0
+Norcross Point South Basin Maranacook,06/04/2022,Sat,5580,Paid,07:00,17:00,Yes,11,0
+Beach Road,06/04/2022,Sat,5306,Paid,07:00,13:00,Yes,14,0
+Rt 41 North Basin Maranacook,06/04/2022,Sat,5573,Paid,13:00,19:00,Yes,5,0
+Whippoorwill Road,06/04/2022,Sat,3504,Paid,07:00,17:00,Yes,19,0
+Launch Drive Cobbosseecontee,06/03/2022,Fri,2169,Paid,09:00,19:00,Yes,8,0
+Augusta West Kampground,06/03/2022,Fri,4174,Paid,12:00,18:00,Yes,4,0
+East Winthrop Cobbosseecontee,06/03/2022,Fri,5005,Paid,07:00,12:00,No,0,
+Lakeside Marina Cobbosseecontee,06/01/2022,Wed,5653,Paid,13:00,14:00,No,1,0
+East Winthrop Cobbosseecontee,05/30/2022,Mon,5573,Paid,13:00,19:00,Yes,19,2
+Augusta West Kampground,05/30/2022,Mon,4174,Paid,08:00,18:00,Yes,17,0
+East Winthrop Cobbosseecontee,05/30/2022,Mon,3796,Paid,07:00,13:00,Yes,19,0
+Norcross Point South Basin Maranacook,05/30/2022,Mon,5005,Paid,13:00,20:00,Yes,33,0
+Rt 41 North Basin Maranacook,05/30/2022,Mon,5588,Paid,13:00,19:00,Yes,31,0
+Thorofare Rd,05/30/2022,Mon,4944,Paid,07:00,17:00,Yes,56,0
+Rt 41 North Basin Maranacook,05/30/2022,Mon,5353,Paid,07:00,13:00,Yes,17,0
+Wilson Pond Road,05/30/2022,Mon,5585,Paid,08:00,17:00,Yes,5,0
+Launch Drive Cobbosseecontee,05/30/2022,Mon,2169,Paid,07:00,17:00,Yes,68,0
+Rt 41 North Basin Maranacook,05/29/2022,Sun,5006,Paid,07:00,13:00,Yes,29,0
+Beach Road,05/29/2022,Sun,5306,Paid,07:00,13:00,Yes,28,0
+Whippoorwill Road,05/29/2022,Sun,3504,Paid,12:52,19:00,Yes,60,0
+Augusta West Kampground,05/29/2022,Sun,3796,Paid,08:00,18:00,Yes,25,0
+Thorofare Rd,05/29/2022,Sun,4944,Paid,07:00,17:00,Yes,74,0
+Old Kents Hill Road,05/29/2022,Sun,5573,Paid,12:30,19:00,Yes,17,0
+Rt 41 North Basin Maranacook,05/28/2022,Sat,5577,Paid,10:00,14:00,Yes,8,0
+Old Kents Hill Road,05/28/2022,Sat,5573,Paid,13:00,19:00,Yes,3,0
+Wilson Pond Road,05/28/2022,Sat,3796,Paid,13:00,17:30,Yes,1,0
+East Winthrop Cobbosseecontee,05/28/2022,Sat,5585,Paid,13:00,16:10,No,0,
+Whippoorwill Road,05/28/2022,Sat,3504,Paid,07:00,16:00,Yes,19,0
+Thorofare Rd,05/28/2022,Sat,4944,Paid,07:00,17:00,Yes,13,0
+Launch Drive Cobbosseecontee,05/28/2022,Sat,5585,Paid,09:00,13:00,Yes,9,0
+Old Kents Hill Road,05/28/2022,Sat,5353,Paid,09:00,13:00,Yes,1,0
+Launch Drive Cobbosseecontee,05/28/2022,Sat,2169,Paid,13:00,19:00,Yes,5,0
+Augusta West Kampground,05/27/2022,Fri,5585,Paid,08:00,18:00,Yes,8,0
+Whippoorwill Road,05/27/2022,Fri,4174,Paid,12:00,19:00,Yes,19,0
+East Winthrop Cobbosseecontee,05/27/2022,Fri,5005,Paid,12:00,19:00,Yes,4,0
+Launch Drive Cobbosseecontee,05/27/2022,Fri,2169,Paid,12:00,19:00,Yes,35,0
+Thorofare Rd,05/27/2022,Fri,3504,Paid,11:30,18:30,Yes,9,0
+Launch Drive,09/19/2021,Sun,4174,Paid,08:00,18:00,Yes,63,
+Augusta West Kampground,09/19/2021,Sun,4769,Paid,08:00,18:00,Yes,4,
+Thorofare Rd,09/19/2021,Sun,4771,Paid,07:00,17:00,Yes,45,
+Old Kents Hill Road,09/18/2021,Sat,4624,Volunteer,09:00,11:00,Yes,1,
+Old Kents Hill Road,09/18/2021,Sat,1292,Volunteer,11:00,13:00,Yes,3,
+Augusta West Kampground,09/18/2021,Sat,4769,Paid,08:00,18:00,Yes,11,
+Launch Drive,09/18/2021,Sat,4174,Paid,08:00,17:15,Yes,47,
+Launch Drive,09/12/2021,Sun,4771,Paid,07:00,17:00,Yes,49,
+Thorofare Rd,09/12/2021,Sun,3504,Paid,07:00,17:00,Yes,37,
+Old Kents Hill Road,09/12/2021,Sun,5411,Volunteer,15:00,17:00,Yes,2,
+Old Kents Hill Road,09/12/2021,Sun,1292,Volunteer,13:00,15:00,No,0,
+Launch Drive,09/11/2021,Sat,4771,Paid,07:00,17:00,Yes,54,
+Augusta West Kampground,09/11/2021,Sat,4769,Paid,08:00,18:00,Yes,5,
+Thorofare Rd,09/11/2021,Sat,3504,Paid,07:00,17:00,Yes,25,
+Old Kents Hill Road,09/11/2021,Sat,1292,Volunteer,17:00,19:00,Yes,4,
+Old Kents Hill Road,09/11/2021,Sat,2092,Volunteer,06:45,09:00,Yes,1,
+Wilson Pond Road,09/06/2021,Mon,4770,Paid,07:00,17:00,Yes,26,
+East Winthrop,09/06/2021,Mon,3504,Paid,07:00,16:30,Yes,18,
+Old Kents Hill Road,09/06/2021,Mon,5353,Paid,07:00,17:00,Yes,8,
+Whippoorwill Road,09/06/2021,Mon,5304,Paid,07:00,13:00,Yes,20,
+Beach Road,09/06/2021,Mon,5306,Paid,07:00,13:00,Yes,12,
+Launch Drive,09/06/2021,Mon,3796,Paid,07:00,16:30,Yes,63,
+Augusta West Kampground,09/06/2021,Mon,4769,Paid,08:00,17:00,Yes,4,
+Rt 41 North Basin Maranacook,09/06/2021,Mon,5305,Paid,07:00,17:00,Yes,28,
+Beach Road,09/06/2021,Mon,4174,Paid,13:00,16:15,Yes,16,
+Old Kents Hill Road,09/05/2021,Sun,5006,Paid,07:00,13:00,Yes,12,
+Rt 41 North Basin Maranacook,09/05/2021,Sun,5305,Paid,07:00,17:00,Yes,19,
+Augusta West Kampground,09/05/2021,Sun,4769,Paid,08:00,18:00,Yes,2,
+Old Kents Hill Road,09/05/2021,Sun,5353,Paid,13:00,19:00,Yes,8,
+Whippoorwill Road,09/05/2021,Sun,5304,Paid,07:00,17:00,Yes,30,
+Wilson Pond Road,09/05/2021,Sun,4770,Paid,07:00,17:00,Yes,5,
+East Winthrop,09/05/2021,Sun,3504,Paid,13:00,19:00,Yes,10,
+Norcross Point South Basin Maranacook,09/05/2021,Sun,4771,Paid,07:00,17:00,Yes,13,
+East Winthrop,09/05/2021,Sun,5386,Paid,07:00,13:00,Yes,5,
+Thorofare Rd,09/05/2021,Sun,4944,Paid,07:00,17:00,Yes,19,
+Launch Drive,09/05/2021,Sun,3796,Paid,07:00,17:00,Yes,44,
+Beach Road,09/05/2021,Sun,5306,Paid,07:00,13:00,Yes,4,
+Beach Road,09/05/2021,Sun,4174,Paid,13:00,19:00,Yes,6,
+Beach Road,09/04/2021,Sat,4174,Paid,07:00,17:00,Yes,19,
+Old Kents Hill Road,09/04/2021,Sat,5006,Paid,07:00,13:00,Yes,4,
+Wilson Pond Road,09/04/2021,Sat,4770,Paid,07:00,17:00,Yes,12,
+Old Kents Hill Road,09/04/2021,Sat,5353,Paid,13:00,19:00,Yes,7,
+Thorofare Rd,09/04/2021,Sat,4944,Paid,07:00,17:00,Yes,34,
+Norcross Point South Basin Maranacook,09/04/2021,Sat,4771,Paid,07:00,17:00,Yes,23,
+Whippoorwill Road,09/04/2021,Sat,5304,Paid,07:00,17:00,Yes,30,
+East Winthrop,09/04/2021,Sat,5386,Paid,07:00,13:00,Yes,13,
+Augusta West Kampground,09/04/2021,Sat,4769,Paid,08:00,18:00,Yes,6,
+Launch Drive,09/04/2021,Sat,3796,Paid,07:00,17:00,Yes,56,
+Whippoorwill Road,09/03/2021,Fri,4174,Paid,12:00,18:00,Yes,15,
+Augusta West Kampground,09/03/2021,Fri,4769,Paid,12:00,18:00,Yes,1,
+East Winthrop,09/03/2021,Fri,3504,Paid,12:00,18:00,Yes,5,
+Old Kents Hill Road,09/03/2021,Fri,1292,Volunteer,17:00,19:00,No,0,
+Launch Drive,09/03/2021,Fri,3796,Paid,12:00,18:00,Yes,10,
+Launch Drive,08/29/2021,Sun,3796,Paid,07:00,17:00,Yes,26,
+Old Kents Hill Road,08/29/2021,Sun,5006,Paid,07:00,13:00,Yes,1,
+East Winthrop,08/29/2021,Sun,3504,Paid,07:00,17:00,Yes,12,
+Wilson Pond Road,08/29/2021,Sun,4770,Paid,07:00,17:00,Yes,23,
+Thorofare Rd,08/29/2021,Sun,4944,Paid,07:00,17:00,Yes,16,
+Rt 41 North Basin Maranacook,08/29/2021,Sun,4488,Paid,07:00,13:00,Yes,5,
+Whippoorwill Road,08/29/2021,Sun,5105,Paid,07:00,13:00,Yes,15,
+Beach Road,08/29/2021,Sun,5306,Paid,07:00,13:00,Yes,6,
+Whippoorwill Road,08/29/2021,Sun,5304,Paid,13:00,19:00,Yes,10,
+Norcross Point South Basin Maranacook,08/29/2021,Sun,5386,Paid,13:00,19:00,Yes,2,
+Rt 41 North Basin Maranacook,08/29/2021,Sun,5001,Paid,13:00,19:00,Yes,16,
+Old Kents Hill Road,08/29/2021,Sun,5353,Paid,13:00,19:00,Yes,1,
+Beach Road,08/29/2021,Sun,4174,Paid,13:00,19:00,Yes,7,
+Augusta West Kampground,08/29/2021,Sun,4769,Paid,08:00,18:00,Yes,6,
+Norcross Point South Basin Maranacook,08/29/2021,Sun,5305,Paid,07:00,13:00,Yes,6,
+Old Kents Hill Road,08/28/2021,Sat,2092,Volunteer,06:45,09:00,Yes,3,
+Launch Drive,08/28/2021,Sat,3796,Paid,07:00,17:15,Yes,46,
+Rt 41 North Basin Maranacook,08/28/2021,Sat,5006,Paid,07:00,13:00,Yes,10,
+Whippoorwill Road,08/28/2021,Sat,5304,Paid,13:00,16:00,Yes,19,
+Thorofare Rd,08/28/2021,Sat,4944,Paid,13:00,16:00,Yes,19,
+Rt 41 North Basin Maranacook,08/28/2021,Sat,5353,Paid,13:00,15:00,Yes,2,
+East Winthrop,08/28/2021,Sat,3504,Paid,13:00,19:00,Yes,16,
+Beach Road,08/28/2021,Sat,5306,Paid,07:00,13:00,Yes,15,
+Whippoorwill Road,08/28/2021,Sat,5105,Paid,07:00,13:00,Yes,7,
+Old Kents Hill Road,08/28/2021,Sat,5446,Volunteer,11:00,13:00,Yes,1,
+Thorofare Rd,08/28/2021,Sat,4771,Paid,07:00,13:00,Yes,21,
+East Winthrop,08/28/2021,Sat,4488,Paid,07:00,13:00,Yes,10,
+Augusta West Kampground,08/28/2021,Sat,4769,Paid,08:00,17:00,Yes,3,
+Wilson Pond Road,08/28/2021,Sat,4770,Paid,07:00,17:00,Yes,15,
+Old Kents Hill Road,08/28/2021,Sat,3089,Volunteer,17:00,19:00,No,0,
+Beach Road,08/28/2021,Sat,4174,Paid,13:00,17:00,Yes,8,
+Norcross Point South Basin Maranacook,08/28/2021,Sat,5305,Paid,13:00,17:00,Yes,6,
+Old Kents Hill Road,08/28/2021,Sat,5451,Volunteer,15:00,17:00,Yes,1,
+Old Kents Hill Road,08/28/2021,Sat,1299,Volunteer,09:00,11:00,Yes,1,
+Old Kents Hill Road,08/28/2021,Sat,2096,Volunteer,13:00,15:05,Yes,4,
+East Winthrop,08/27/2021,Fri,4488,Paid,12:00,18:00,Yes,22,
+Old Kents Hill Road,08/27/2021,Fri,5353,Paid,07:00,12:00,Yes,1,
+Augusta West Kampground,08/27/2021,Fri,4769,Paid,12:00,18:00,Yes,1,
+Launch Drive,08/27/2021,Fri,4174,Paid,12:00,18:00,Yes,37,
+Launch Drive,08/26/2021,Thu,4771,Paid,12:00,17:00,Yes,24,
+Old Kents Hill Road,08/26/2021,Thu,5006,Paid,07:00,12:00,Yes,5,
+Launch Drive,08/26/2021,Thu,5305,Paid,07:00,12:00,Yes,18,
+Launch Drive,08/25/2021,Wed,4771,Paid,12:00,17:00,Yes,17,
+Launch Drive,08/25/2021,Wed,4488,Paid,07:00,12:00,Yes,13,
+Launch Drive,08/24/2021,Tue,4769,Paid,07:00,12:00,Yes,16,
+Launch Drive,08/24/2021,Tue,3796,Paid,12:00,17:00,Yes,17,
+Launch Drive,08/23/2021,Mon,3504,Paid,07:00,15:00,Yes,5,
+Old Kents Hill Road,08/23/2021,Mon,1292,Volunteer,08:00,10:00,No,0,
+Whippoorwill Road,08/22/2021,Sun,5105,Paid,07:00,13:00,Yes,17,
+Beach Road,08/22/2021,Sun,5306,Paid,07:00,13:00,Yes,1,
+Rt 41 North Basin Maranacook,08/22/2021,Sun,4488,Paid,07:00,13:00,Yes,1,
+Rt 41 North Basin Maranacook,08/22/2021,Sun,5367,Paid,13:00,18:00,Yes,14,
+Thorofare Rd,08/22/2021,Sun,3504,Paid,07:00,17:00,Yes,18,
+Augusta West Kampground,08/22/2021,Sun,4769,Paid,08:00,16:30,Yes,1,
+Norcross Point South Basin Maranacook,08/22/2021,Sun,4771,Paid,07:00,17:00,Yes,6,
+East Winthrop,08/22/2021,Sun,5386,Paid,07:00,17:00,Yes,9,
+Launch Drive,08/22/2021,Sun,3796,Paid,07:00,17:00,Yes,24,
+Old Kents Hill Road,08/22/2021,Sun,5006,Paid,07:00,13:00,Yes,1,
+Beach Road,08/22/2021,Sun,4174,Paid,13:00,17:00,Yes,1,
+Old Kents Hill Road,08/22/2021,Sun,5305,Paid,13:00,18:00,Yes,3,
+Augusta West Kampground,08/21/2021,Sat,4769,Paid,14:00,20:00,Yes,2,
+Wilson Pond Road,08/21/2021,Sat,4770,Paid,07:00,17:00,Yes,17,
+Norcross Point South Basin Maranacook,08/21/2021,Sat,4771,Paid,07:00,17:00,Yes,26,
+Thorofare Rd,08/21/2021,Sat,5307,Paid,07:00,17:00,Yes,28,
+Whippoorwill Road,08/21/2021,Sat,4174,Paid,07:00,17:00,Yes,77,
+Rt 41 North Basin Maranacook,08/21/2021,Sat,4488,Paid,07:00,13:00,Yes,8,
+Beach Road,08/21/2021,Sat,5306,Paid,07:00,13:00,Yes,19,
+East Winthrop,08/21/2021,Sat,5367,Paid,07:00,13:00,Yes,12,
+Augusta West Kampground,08/21/2021,Sat,5386,Paid,08:00,14:00,Yes,11,
+Old Kents Hill Road,08/21/2021,Sat,5353,Paid,07:00,13:00,Yes,6,
+Launch Drive,08/21/2021,Sat,3796,Paid,07:00,17:00,Yes,87,
+Rt 41 North Basin Maranacook,08/21/2021,Sat,5305,Paid,13:00,18:00,Yes,29,
+East Winthrop,08/21/2021,Sat,3504,Paid,13:00,19:00,Yes,19,
+Old Kents Hill Road,08/21/2021,Sat,4383,Volunteer,17:00,19:00,Yes,1,
+Augusta West Kampground,08/20/2021,Fri,4488,Paid,12:00,18:00,Yes,5,
+East Winthrop,08/20/2021,Fri,5402,Paid,12:00,18:00,Yes,12,
+Old Kents Hill Road,08/20/2021,Fri,5353,Paid,07:00,12:00,Yes,3,
+Launch Drive,08/20/2021,Fri,3504,Paid,07:00,12:00,Yes,18,
+Thorofare Rd,08/20/2021,Fri,4771,Paid,12:00,17:00,Yes,16,
+Old Kents Hill Road,08/20/2021,Fri,1292,Volunteer,17:00,19:00,No,0,
+Launch Drive,08/20/2021,Fri,3796,Paid,12:01,18:00,Yes,35,
+Old Kents Hill Road,08/19/2021,Thu,5006,Paid,07:00,12:00,No,0,
+Launch Drive,08/19/2021,Thu,4771,Paid,12:00,17:00,Yes,8,
+Whippoorwill Road,08/19/2021,Thu,5402,Paid,12:00,16:30,Yes,3,
+Launch Drive,08/18/2021,Wed,3796,Paid,07:00,09:30,Yes,1,
+Launch Drive,08/18/2021,Wed,4771,Paid,12:00,17:00,Yes,8,
+Launch Drive,08/18/2021,Wed,5305,Paid,09:30,12:00,Yes,4,
+Launch Drive,08/17/2021,Tue,4769,Paid,07:00,12:00,Yes,9,
+Launch Drive,08/17/2021,Tue,3796,Paid,12:00,17:00,Yes,17,
+Launch Drive,08/16/2021,Mon,4174,Paid,12:00,17:00,Yes,13,
+Launch Drive,08/16/2021,Mon,3504,Paid,07:00,12:00,Yes,10,
+Lakeside Marina Cobbosseecontee,07/08/2022,Fri,5669,Paid,12:00,13:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/07/2022,Thu,5698,Paid,10:00,15:00,Yes,3,0
+Launch Drive Cobbosseecontee,07/06/2022,Wed,3504,Paid,06:45,12:45,Yes,8,0
+Thorofare Rd,07/04/2022,Mon,4944,Paid,07:00,17:00,Yes,50,0
+Old Kents Hill Road,07/04/2022,Mon,1290,Volunteer,13:00,15:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/05/2022,Tue,5658,Paid,20:00,21:00,Yes,5,0
+Whippoorwill Road,07/04/2022,Mon,5648,Paid,13:00,19:00,Yes,41,0
+Launch Drive Cobbosseecontee,07/03/2022,Sun,5633,Paid,07:05,13:00,Yes,63,1
+Beach Road,07/03/2022,Sun,5644,Paid,09:00,17:00,Yes,33,0
+Wilson Pond Road,07/03/2022,Sun,3504,Paid,06:50,17:00,Yes,17,0
+East Winthrop Cobbosseecontee,07/02/2022,Sat,3504,Paid,06:45,13:00,Yes,4,0
+Lakeside Marina Cobbosseecontee,07/02/2022,Sat,5654,Paid,12:00,13:00,Yes,1,0
+Launch Drive Cobbosseecontee,07/01/2022,Fri,5637,Volunteer,04:50,08:00,Yes,4,0
+East Winthrop Cobbosseecontee,06/27/2022,Mon,5586,Paid,07:00,11:00,No,0,0
+Augusta West Kampground,06/26/2022,Sun,5580,Paid,08:00,14:00,Yes,11,0
+Whippoorwill Road,06/25/2022,Sat,5586,Paid,07:00,13:00,Yes,43,0
+Lakeside Marina Cobbosseecontee,06/23/2022,Thu,5652,Paid,15:40,18:37,Yes,5,0
+East Winthrop Cobbosseecontee,06/21/2022,Tue,5588,Paid,07:00,13:00,No,0,
+Old Kents Hill Road,06/19/2022,Sun,5588,Paid,07:00,17:00,Yes,1,0
+Wilson Pond Road,06/18/2022,Sat,3504,Paid,06:45,16:45,Yes,18,0
+Thorofare Rd,06/18/2022,Tue,2169,Paid,09:00,19:00,Yes,21,0
+Launch Drive Cobbosseecontee,06/15/2022,Wed,3504,Paid,06:45,12:45,Yes,19,0
+Launch Drive Cobbosseecontee,06/12/2022,Sun,5005,Paid,13:00,19:00,Yes,54,0
+East Winthrop Cobbosseecontee,06/12/2022,Sun,5582,Paid,07:00,17:00,Yes,42,0
+Thorofare Rd,06/12/2022,Tue,2169,Paid,13:00,19:00,Yes,24,0
+Wilson Pond Road,06/11/2022,Sat,3796,Paid,13:00,19:00,Yes,10,0
+Augusta West Kampground,06/11/2022,Sat,4174,Paid,08:00,18:00,Yes,15,0
+East Winthrop Cobbosseecontee,06/07/2022,Tue,5585,Paid,09:00,18:00,Yes,2,0
+Rt 41 North Basin Maranacook,06/05/2022,Sun,5006,Paid,07:00,13:00,Yes,22,0
+Rt 41 North Basin Maranacook,06/05/2022,Sun,5573,Paid,13:00,19:00,Yes,25,0
+Rt 41 North Basin Maranacook,06/04/2022,Sat,5588,Paid,07:00,13:00,Yes,4,0
+Launch Drive Cobbosseecontee,06/02/2022,Thu,2169,Paid,09:00,19:00,Yes,18,0
+Whippoorwill Road,05/30/2022,Mon,3504,Paid,06:47,17:00,Yes,70,0
+Launch Drive Cobbosseecontee,05/29/2022,Sun,2169,Paid,07:00,17:00,Yes,91,0
+Norcross Point South Basin Maranacook,05/28/2022,Sat,5006,Paid,08:45,17:00,Yes,7,0
+Augusta West Kampground,05/28/2022,Sat,4174,Paid,10:00,16:30,Yes,6,0
+Augusta West Kampground,09/12/2021,Sun,4769,Paid,08:00,18:00,Yes,2,
+Norcross Point South Basin Maranacook,09/06/2021,Mon,4771,Paid,11:30,17:00,Yes,17,
+Rt 41 North Basin Maranacook,09/04/2021,Sat,5305,Paid,07:00,17:00,Yes,29,
+Thorofare Rd,09/03/2021,Fri,4771,Paid,12:00,18:00,Yes,5,
+Norcross Point South Basin Maranacook,08/28/2021,Sat,5386,Paid,07:00,13:00,Yes,8,
+Thorofare Rd,08/27/2021,Fri,4771,Paid,12:00,18:00,Yes,18,
+Wilson Pond Road,08/22/2021,Sun,4770,Paid,07:00,17:00,Yes,3,
+Launch Drive,08/19/2021,Thu,5305,Paid,07:09,12:00,Yes,5,
+East Winthrop Cobbosseecontee,08/10/2022,Wed,5573,Paid,13:00,18:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,08/10/2022,Wed,5653,Paid,08:00,09:00,Yes,3,0
+Launch Drive Cobbosseecontee,08/10/2022,Wed,5402,Paid,07:00,13:00,Yes,8,0
+East Winthrop Cobbosseecontee,08/10/2022,Wed,5633,Paid,07:00,13:00,Yes,7,0
+Launch Drive Cobbosseecontee,08/10/2022,Wed,3504,Paid,13:00,19:00,Yes,10,0
+Launch Drive Cobbosseecontee,08/10/2022,Tue,5637,Volunteer,05:11,07:10,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/09/2022,Tue,5653,Paid,12:00,13:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/09/2022,Tue,5654,Paid,09:00,10:00,Yes,1,0
+Launch Drive Cobbosseecontee,08/09/2022,Tue,5305,Paid,07:00,13:00,Yes,4,0
+Launch Drive Cobbosseecontee,08/09/2022,Tue,5637,Volunteer,05:00,07:00,Yes,1,0
+Launch Drive Cobbosseecontee,08/09/2022,Tue,5633,Paid,13:00,19:00,Yes,2,0
+East Winthrop Cobbosseecontee,08/09/2022,Tue,5588,Paid,07:00,13:00,Yes,2,0
+East Winthrop Cobbosseecontee,08/09/2022,Tue,5670,Paid,13:00,19:00,Yes,1,0
+Launch Drive Cobbosseecontee,08/08/2022,Mon,5670,Paid,13:00,19:00,Yes,5,0
+Launch Drive Cobbosseecontee,08/08/2022,Mon,5305,Paid,07:00,13:00,Yes,14,0
+East Winthrop Cobbosseecontee,08/08/2022,Mon,5633,Paid,07:00,13:00,Yes,4,0
+Thorofare Rd,08/07/2022,Sun,2169,Paid,10:00,19:00,Yes,17,0
+Lakeside Marina Cobbosseecontee,08/07/2022,Sun,5655,Paid,09:00,10:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/07/2022,Sun,5652,Paid,10:00,11:00,Yes,1,0
+Old Kents Hill Road,08/07/2022,Sun,5622,Paid,07:00,17:00,Yes,4,0
+Norcross Point South Basin Maranacook,08/07/2022,Sun,5577,Paid,13:00,19:00,Yes,26,0
+East Winthrop Cobbosseecontee,08/07/2022,Sun,5670,Paid,12:30,18:45,Yes,14,0
+Beach Road,08/07/2022,Sun,5644,Paid,13:00,19:00,Yes,9,0
+Rt 41 North Basin Maranacook,08/07/2022,Sun,5006,Paid,07:00,17:00,Yes,44,0
+Wilson Pond Road,08/07/2022,Sun,5673,Volunteer,16:00,17:40,Yes,7,1
+Wilson Pond Road,08/07/2022,Sun,5305,Paid,09:00,14:00,Yes,10,0
+Wilson Pond Road,08/07/2022,Sun,5676,Volunteer,05:25,07:30,Yes,8,0
+Launch Drive Cobbosseecontee,08/07/2022,Sun,5637,Volunteer,04:40,07:00,Yes,5,0
+Lakeside Marina Cobbosseecontee,08/07/2022,Sun,5654,Paid,14:00,15:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/07/2022,Sun,4729,Paid,10:00,12:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/07/2022,Sun,5658,Paid,12:00,14:00,Yes,2,0
+Wilson Pond Road,08/07/2022,Sun,5706,Volunteer,07:00,09:00,Yes,2,0
+Beach Road,08/07/2022,Sun,5306,Paid,07:00,13:00,Yes,9,0
+Whippoorwill Road,08/07/2022,Sun,5648,Paid,07:00,17:00,Yes,57,0
+Thorofare Rd,08/07/2022,Sun,3504,Paid,07:00,13:00,Yes,24,0
+Norcross Point South Basin Maranacook,08/07/2022,Sun,5633,Paid,07:06,13:00,Yes,16,0
+East Winthrop Cobbosseecontee,08/07/2022,Sun,5671,Paid,07:00,12:30,Yes,16,0
+Launch Drive Cobbosseecontee,08/07/2022,Sun,5580,Paid,07:00,17:00,Yes,91,0
+Thorofare Rd,08/06/2022,Sat,2169,Paid,10:20,19:00,Yes,34,0
+Lakeside Marina Cobbosseecontee,08/06/2022,Sat,4729,Paid,07:00,08:00,Yes,3,0
+Launch Drive Cobbosseecontee,08/06/2022,Sat,5637,Volunteer,04:50,07:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,08/06/2022,Sat,5657,Paid,16:00,17:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/06/2022,Sat,5652,Paid,05:00,14:00,Yes,4,0
+Whippoorwill Road,08/06/2022,Sat,5586,Paid,07:00,17:00,Yes,48,0
+Old Kents Hill Road,08/06/2022,Sat,5577,Paid,07:00,17:00,Yes,11,0
+Beach Road,08/06/2022,Sat,5306,Paid,07:00,13:00,Yes,11,0
+Beach Road,08/06/2022,Sat,5622,Paid,13:00,19:00,Yes,10,0
+East Winthrop Cobbosseecontee,08/06/2022,Sat,5670,Paid,07:00,17:00,Yes,17,0
+Augusta West Kampground,08/06/2022,Sat,5644,Paid,08:00,18:00,Yes,13,0
+Launch Drive Cobbosseecontee,08/06/2022,Sat,5648,Paid,13:00,19:00,Yes,44,0
+Norcross Point South Basin Maranacook,08/06/2022,Sat,5671,Paid,07:00,17:00,Yes,38,0
+Rt 41 North Basin Maranacook,08/06/2022,Sat,5006,Paid,07:00,17:00,Yes,36,0
+Launch Drive Cobbosseecontee,08/06/2022,Sat,5580,Paid,07:00,13:00,Yes,39,0
+Old Kents Hill Road,08/06/2022,Sat,1394,Volunteer,13:00,15:00,No,0,
+Launch Drive Cobbosseecontee,08/05/2022,Fri,2169,Paid,13:00,19:00,Yes,29,0
+Lakeside Marina Cobbosseecontee,08/05/2022,Fri,5658,Paid,09:00,16:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,08/05/2022,Fri,5654,Paid,07:00,08:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/05/2022,Fri,5669,Paid,09:30,10:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/05/2022,Fri,5653,Paid,13:00,14:00,Yes,1,0
+Launch Drive Cobbosseecontee,08/05/2022,Fri,5637,Volunteer,04:45,07:05,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/05/2022,Fri,5658,Paid,16:00,18:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/05/2022,Fri,5652,Paid,18:00,19:00,Yes,1,0
+Augusta West Kampground,08/05/2022,Fri,4174,Paid,12:00,18:00,Yes,6,0
+Launch Drive Cobbosseecontee,08/05/2022,Fri,5648,Paid,07:00,13:00,Yes,12,0
+East Winthrop Cobbosseecontee,08/05/2022,Fri,5588,Paid,07:00,13:00,Yes,2,0
+East Winthrop Cobbosseecontee,08/05/2022,Fri,5644,Paid,13:00,19:00,Yes,9,0
+Thorofare Rd,08/05/2022,Fri,5586,Paid,12:00,18:00,Yes,13,0
+Whippoorwill Road,08/05/2022,Fri,5671,Paid,13:00,19:00,Yes,10,0
+Launch Drive Cobbosseecontee,08/04/2022,Thu,2169,Paid,13:00,19:00,Yes,39,0
+Lakeside Marina Cobbosseecontee,08/04/2022,Thu,5669,Paid,06:15,13:00,Yes,4,0
+Launch Drive Cobbosseecontee,08/04/2022,Thu,5637,Volunteer,04:40,07:05,Yes,2,0
+Whippoorwill Road,08/04/2022,Thu,5402,Paid,13:00,19:00,Yes,13,0
+East Winthrop Cobbosseecontee,08/04/2022,Thu,5671,Paid,13:00,19:00,Yes,11,0
+Launch Drive Cobbosseecontee,08/04/2022,Thu,5670,Paid,07:00,13:00,Yes,20,0
+Lakeside Marina Cobbosseecontee,08/03/2022,Wed,5654,Paid,10:00,11:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/03/2022,Wed,4729,Paid,12:00,19:00,Yes,2,0
+Launch Drive Cobbosseecontee,08/03/2022,Wed,5637,Volunteer,04:35,07:10,Yes,2,0
+Launch Drive Cobbosseecontee,08/03/2022,Wed,5637,Volunteer,04:51,07:03,Yes,1,0
+East Winthrop Cobbosseecontee,08/03/2022,Wed,5588,Paid,07:00,13:00,Yes,1,0
+Launch Drive Cobbosseecontee,08/03/2022,Wed,5402,Paid,07:00,13:00,Yes,13,0
+East Winthrop Cobbosseecontee,08/03/2022,Wed,5573,Paid,13:00,19:00,Yes,4,0
+Launch Drive Cobbosseecontee,08/03/2022,Wed,3504,Paid,13:00,19:00,Yes,25,0
+Lakeside Marina Cobbosseecontee,08/02/2022,Tue,5652,Paid,14:00,15:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/02/2022,Tue,5653,Paid,17:00,19:00,Yes,2,0
+Launch Drive Cobbosseecontee,08/02/2022,Tue,5637,Volunteer,05:18,07:00,Yes,2,0
+Launch Drive Cobbosseecontee,08/02/2022,Tue,5670,Paid,07:00,13:00,Yes,4,0
+Launch Drive Cobbosseecontee,08/02/2022,Tue,3504,Paid,13:00,19:00,Yes,8,0
+East Winthrop Cobbosseecontee,08/02/2022,Tue,5573,Paid,13:00,19:00,No,0,
+East Winthrop Cobbosseecontee,08/01/2022,Mon,5573,Paid,07:00,13:00,Yes,3,0
+Launch Drive Cobbosseecontee,08/01/2022,Mon,5648,Paid,13:00,19:00,Yes,16,1
+East Winthrop Cobbosseecontee,08/01/2022,Mon,5588,Paid,13:00,19:00,Yes,10,1
+Launch Drive Cobbosseecontee,07/31/2022,Sun,5637,Volunteer,06:20,07:11,Yes,2,0
+East Winthrop Cobbosseecontee,07/31/2022,Sun,3504,Paid,13:00,19:00,Yes,25,0
+Norcross Point South Basin Maranacook,07/31/2022,Sun,5573,Paid,13:00,19:00,Yes,15,0
+Launch Drive Cobbosseecontee,07/31/2022,Sun,3796,Paid,13:00,19:00,Yes,62,0
+Rt 41 North Basin Maranacook,07/31/2022,Sun,5584,Paid,13:00,19:00,Yes,37,0
+Whippoorwill Road,07/31/2022,Sun,5402,Paid,13:00,19:00,Yes,58,0
+Wilson Pond Road,07/31/2022,Sun,5622,Paid,13:00,19:00,Yes,8,0
+Beach Road,07/31/2022,Sun,5648,Paid,07:00,17:00,Yes,21,0
+Augusta West Kampground,07/31/2022,Sun,5006,Paid,08:00,18:00,Yes,14,0
+Old Kents Hill Road,07/31/2022,Sun,5588,Paid,07:00,17:00,Yes,19,0
+Thorofare Rd,07/31/2022,Sun,2169,Paid,13:00,19:00,Yes,34,0
+Launch Drive Cobbosseecontee,07/31/2022,Sun,5580,Paid,07:00,13:00,Yes,51,0
+Thorofare Rd,07/31/2022,Sun,4944,Paid,07:00,13:00,Yes,37,0
+East Winthrop Cobbosseecontee,07/31/2022,Sun,5633,Paid,07:00,13:00,Yes,16,0
+Whippoorwill Road,07/31/2022,Sun,5105,Paid,07:00,13:00,Yes,43,0
+Wilson Pond Road,07/31/2022,Sun,5644,Paid,07:00,13:00,Yes,9,0
+Rt 41 North Basin Maranacook,07/31/2022,Sun,5671,Paid,07:00,13:00,Yes,21,0
+Launch Drive Cobbosseecontee,07/30/2022,Sat,5637,Volunteer,04:40,07:05,Yes,4,0
+Old Kents Hill Road,07/30/2022,Sat,5150,Volunteer,07:00,09:00,Yes,2,0
+Old Kents Hill Road,07/30/2022,Sat,1292,Volunteer,15:00,17:00,Yes,1,0
+Old Kents Hill Road,07/30/2022,Sat,1103,Volunteer,11:00,13:00,No,0,
+Old Kents Hill Road,07/30/2022,Sat,1299,Volunteer,09:00,11:00,Yes,1,0
+Beach Road,07/30/2022,Sat,5306,Paid,07:00,13:00,Yes,14,0
+Rt 41 North Basin Maranacook,07/30/2022,Sat,5584,Paid,13:00,19:00,Yes,30,0
+Thorofare Rd,07/30/2022,Sat,2169,Paid,13:00,19:00,Yes,17,0
+Augusta West Kampground,07/30/2022,Sat,5670,Paid,14:00,20:00,Yes,8,0
+Lakeside Marina Cobbosseecontee,07/30/2022,Sat,5658,Paid,07:10,10:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/30/2022,Sat,5654,Paid,09:00,13:00,Yes,6,0
+Lakeside Marina Cobbosseecontee,07/30/2022,Sat,5657,Paid,08:17,12:00,Yes,2,0
+Thorofare Rd,07/30/2022,Sat,4944,Paid,07:00,13:00,Yes,11,0
+Wilson Pond Road,07/30/2022,Sat,5644,Paid,07:00,13:00,Yes,14,0
+Beach Road,07/30/2022,Sat,5622,Paid,13:00,19:00,Yes,4,0
+Norcross Point South Basin Maranacook,07/30/2022,Sat,5006,Paid,07:00,17:00,Yes,26,0
+East Winthrop Cobbosseecontee,07/30/2022,Sat,3504,Paid,07:00,17:00,Yes,30,0
+Augusta West Kampground,07/30/2022,Sat,5577,Paid,08:00,14:00,Yes,11,0
+Launch Drive Cobbosseecontee,07/30/2022,Sat,5671,Paid,07:00,17:00,Yes,77,0
+Whippoorwill Road,07/30/2022,Sat,5586,Paid,07:00,17:00,Yes,65,0
+Wilson Pond Road,07/30/2022,Sat,5648,Paid,13:00,19:00,Yes,7,0
+Launch Drive Cobbosseecontee,07/29/2022,Fri,5637,Volunteer,04:41,07:00,Yes,1,0
+Wilson Pond Road,07/29/2022,Fri,5706,Volunteer,07:40,08:49,Yes,1,0
+Thorofare Rd,07/29/2022,Fri,5671,Paid,13:00,19:00,Yes,23,0
+East Winthrop Cobbosseecontee,07/29/2022,Fri,5579,Paid,12:56,19:01,Yes,17,0
+Launch Drive Cobbosseecontee,07/29/2022,Fri,2169,Paid,13:00,19:00,Yes,19,0
+Lakeside Marina Cobbosseecontee,07/29/2022,Fri,5669,Paid,14:00,15:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,07/29/2022,Fri,4729,Paid,08:00,09:35,Yes,4,0
+Lakeside Marina Cobbosseecontee,07/29/2022,Fri,5655,Paid,13:00,14:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/29/2022,Fri,5658,Paid,11:00,12:00,Yes,1,0
+Launch Drive Cobbosseecontee,07/29/2022,Fri,5670,Paid,07:00,13:00,Yes,11,0
+East Winthrop Cobbosseecontee,07/29/2022,Fri,5580,Paid,07:00,13:00,Yes,4,0
+Whippoorwill Road,07/29/2022,Fri,5648,Paid,12:00,18:00,Yes,16,0
+Lakeside Marina Cobbosseecontee,07/28/2022,Thu,5637,Volunteer,04:40,07:00,No,2,0
+Launch Drive Cobbosseecontee,07/28/2022,Thu,5648,Paid,07:00,13:00,Yes,11,0
+Wilson Pond Road,07/28/2022,Thu,5668,Volunteer,10:00,11:00,Yes,1,0
+Launch Drive Cobbosseecontee,07/28/2022,Thu,2169,Paid,13:00,19:00,Yes,16,0
+Lakeside Marina Cobbosseecontee,07/28/2022,Thu,5669,Paid,11:00,13:00,Yes,4,0
+Whippoorwill Road,07/28/2022,Thu,5586,Paid,12:00,18:00,Yes,18,0
+East Winthrop Cobbosseecontee,07/28/2022,Thu,5579,Paid,12:55,19:00,Yes,4,0
+East Winthrop Cobbosseecontee,07/27/2022,Wed,5588,Paid,13:00,19:00,Yes,6,0
+Launch Drive Cobbosseecontee,07/27/2022,Wed,5670,Paid,13:00,19:00,Yes,16,0
+Lakeside Marina Cobbosseecontee,07/27/2022,Wed,5658,Paid,11:00,12:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/27/2022,Wed,5654,Paid,13:00,14:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/27/2022,Wed,5669,Paid,15:00,18:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/27/2022,Wed,5655,Paid,19:00,20:00,Yes,1,0
+East Winthrop Cobbosseecontee,07/27/2022,Wed,5633,Paid,07:00,13:00,Yes,4,0
+Launch Drive Cobbosseecontee,07/27/2022,Wed,3504,Paid,07:00,13:00,Yes,21,0
+Launch Drive Cobbosseecontee,07/26/2022,Tue,5637,Volunteer,05:20,07:03,No,1,0
+Launch Drive Cobbosseecontee,07/26/2022,Tue,3504,Paid,13:00,19:00,Yes,21,0
+Lakeside Marina Cobbosseecontee,07/26/2022,Tue,5653,Paid,16:00,17:00,Yes,1,0
+East Winthrop Cobbosseecontee,07/26/2022,Tue,5633,Paid,13:00,19:00,Yes,6,0
+East Winthrop Cobbosseecontee,07/26/2022,Tue,5588,Paid,07:00,13:00,Yes,9,0
+Launch Drive Cobbosseecontee,07/25/2022,Mon,5579,Paid,06:55,13:00,Yes,5,0
+Lakeside Marina Cobbosseecontee,07/25/2022,Mon,5657,Paid,18:00,19:00,Yes,1,0
+East Winthrop Cobbosseecontee,07/25/2022,Mon,5580,Paid,07:00,13:00,Yes,1,0
+East Winthrop Cobbosseecontee,07/25/2022,Mon,5588,Paid,13:00,19:00,Yes,3,0
+Launch Drive Cobbosseecontee,07/25/2022,Mon,5670,Paid,13:00,19:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,07/25/2022,Mon,5653,Paid,10:00,11:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/25/2022,Mon,5698,Paid,10:00,11:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/25/2022,Mon,5669,Paid,08:00,10:30,Yes,3,0
+Launch Drive Cobbosseecontee,07/24/2022,Sun,3796,Paid,13:00,19:00,Yes,54,0
+Launch Drive Cobbosseecontee,07/24/2022,Sun,5637,Volunteer,04:46,07:05,Yes,8,0
+Norcross Point South Basin Maranacook,07/24/2022,Sun,5006,Paid,07:00,13:00,Yes,17,0
+Whippoorwill Road,07/24/2022,Sun,5402,Paid,07:00,13:00,Yes,31,0
+Launch Drive Cobbosseecontee,07/24/2022,Sun,5580,Paid,07:00,13:00,Yes,34,0
+Wilson Pond Road,07/24/2022,Sun,3504,Paid,07:00,17:00,Yes,14,0
+Old Kents Hill Road,07/24/2022,Sun,5588,Paid,13:00,19:00,Yes,1,0
+Beach Road,07/24/2022,Sun,5648,Paid,13:00,19:00,Yes,11,0
+Lakeside Marina Cobbosseecontee,07/24/2022,Sun,5669,Paid,11:00,15:00,Yes,3,0
+East Winthrop Cobbosseecontee,07/24/2022,Sun,5305,Paid,07:00,13:00,Yes,22,0
+East Winthrop Cobbosseecontee,07/24/2022,Sun,5670,Paid,13:00,18:30,Yes,31,0
+Lakeside Marina Cobbosseecontee,07/24/2022,Sun,5654,Paid,14:00,15:00,No,1,0
+Lakeside Marina Cobbosseecontee,07/24/2022,Sun,5669,Paid,16:00,19:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,07/24/2022,Sun,5652,Paid,08:00,14:00,Yes,5,0
+Thorofare Rd,07/24/2022,Sun,4944,Paid,07:00,17:00,Yes,38,0
+Old Kents Hill Road,07/24/2022,Sun,5633,Paid,07:00,13:00,Yes,7,0
+Lakeside Marina Cobbosseecontee,07/24/2022,Sun,5656,Paid,10:00,13:00,Yes,5,0
+Norcross Point South Basin Maranacook,07/24/2022,Sun,5584,Paid,13:00,19:00,Yes,18,0
+Beach Road,07/24/2022,Sun,5306,Paid,07:00,13:00,Yes,14,0
+Augusta West Kampground,07/24/2022,Sun,4174,Paid,09:00,19:00,Yes,17,0
+Whippoorwill Road,07/24/2022,Sun,2169,Paid,13:00,19:00,Yes,46,0
+Launch Drive Cobbosseecontee,07/23/2022,Sat,5637,Volunteer,04:50,07:00,Yes,3,0
+Rt 41 North Basin Maranacook,07/23/2022,Sat,5584,Paid,13:00,19:00,Yes,43,0
+Old Kents Hill Road,07/23/2022,Sat,5622,Paid,13:00,19:00,Yes,4,0
+Augusta West Kampground,07/23/2022,Sat,5670,Paid,07:00,17:00,Yes,16,0
+Launch Drive Cobbosseecontee,07/23/2022,Sat,5580,Paid,07:00,17:00,Yes,99,0
+Thorofare Rd,07/23/2022,Sat,4944,Paid,07:00,13:00,Yes,21,0
+Rt 41 North Basin Maranacook,07/23/2022,Sat,5577,Paid,07:00,13:00,Yes,24,0
+Old Kents Hill Road,07/23/2022,Sat,5633,Paid,07:00,13:00,Yes,3,0
+East Winthrop Cobbosseecontee,07/23/2022,Sat,5402,Paid,07:00,13:00,Yes,22,0
+Lakeside Marina Cobbosseecontee,07/23/2022,Sat,5669,Paid,11:00,15:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,07/23/2022,Sat,5652,Paid,12:00,19:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/23/2022,Sat,5653,Paid,10:00,11:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/23/2022,Sat,5652,Paid,07:00,17:00,No,11,0
+Norcross Point South Basin Maranacook,07/23/2022,Sat,5006,Paid,07:00,17:00,Yes,46,0
+Wilson Pond Road,07/23/2022,Sat,3504,Paid,07:00,17:00,Yes,24,0
+East Winthrop Cobbosseecontee,07/23/2022,Sat,5648,Paid,13:00,19:00,Yes,25,0
+Beach Road,07/23/2022,Sat,4174,Paid,13:00,19:00,Yes,22,0
+Thorofare Rd,07/23/2022,Sat,2169,Paid,13:00,19:00,Yes,29,0
+Launch Drive Cobbosseecontee,07/22/2022,Fri,5637,Volunteer,04:50,07:03,Yes,6,0
+Thorofare Rd,07/22/2022,Fri,5670,Paid,13:00,19:00,Yes,15,0
+Lakeside Marina Cobbosseecontee,07/22/2022,Fri,5654,Paid,13:00,14:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/22/2022,Fri,5652,Paid,18:00,20:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/22/2022,Fri,5658,Paid,12:00,13:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/22/2022,Fri,5698,Paid,08:00,12:00,Yes,3,0
+Launch Drive Cobbosseecontee,07/22/2022,Fri,5579,Paid,06:54,13:02,Yes,40,0
+Wilson Pond Road,07/22/2022,Fri,5673,Volunteer,08:30,10:23,Yes,4,0
+East Winthrop Cobbosseecontee,07/22/2022,Fri,5633,Paid,07:00,17:11,Yes,18,1
+Launch Drive Cobbosseecontee,07/22/2022,Fri,2169,Paid,13:00,19:00,Yes,38,0
+Augusta West Kampground,07/22/2022,Fri,4174,Paid,12:00,18:00,Yes,7,0
+Launch Drive Cobbosseecontee,07/21/2022,Thu,5637,Volunteer,04:52,07:00,No,2,0
+Whippoorwill Road,07/21/2022,Thu,5586,Paid,13:00,19:00,Yes,6,0
+East Winthrop Cobbosseecontee,07/21/2022,Thu,5402,Paid,07:00,13:00,Yes,5,0
+East Winthrop Cobbosseecontee,07/21/2022,Thu,5670,Paid,13:00,19:00,Yes,3,0
+Launch Drive Cobbosseecontee,07/21/2022,Thu,2169,Paid,13:00,19:00,Yes,15,0
+Launch Drive Cobbosseecontee,07/20/2022,Wed,5637,Volunteer,04:55,07:05,Yes,3,0
+Launch Drive Cobbosseecontee,07/20/2022,Wed,5580,Paid,07:00,13:00,Yes,26,0
+East Winthrop Cobbosseecontee,07/20/2022,Wed,5402,Paid,07:00,13:00,Yes,5,0
+Launch Drive Cobbosseecontee,07/20/2022,Wed,3504,Paid,13:00,19:00,Yes,35,0
+East Winthrop Cobbosseecontee,07/20/2022,Wed,5579,Paid,12:58,19:02,Yes,12,1
+Lakeside Marina Cobbosseecontee,07/20/2022,Wed,5669,Paid,17:00,18:00,No,1,0
+East Winthrop Cobbosseecontee,07/19/2022,Tue,5633,Paid,07:00,13:00,Yes,3,0
+Launch Drive Cobbosseecontee,07/19/2022,Tue,5579,Paid,06:57,13:00,Yes,7,0
+East Winthrop Cobbosseecontee,07/19/2022,Tue,5305,Paid,13:00,19:00,Yes,3,1
+Launch Drive Cobbosseecontee,07/19/2022,Tue,3504,Paid,13:00,19:00,Yes,26,0
+East Winthrop Cobbosseecontee,07/18/2022,Mon,5581,Paid,13:00,18:00,Yes,2,0
+Launch Drive Cobbosseecontee,07/18/2022,Mon,5580,Paid,07:00,13:00,Yes,20,0
+Launch Drive Cobbosseecontee,07/18/2022,Mon,5648,Paid,13:00,19:00,Yes,11,0
+Launch Drive Cobbosseecontee,07/18/2022,Mon,5637,Volunteer,04:45,07:00,Yes,7,0
+East Winthrop Cobbosseecontee,07/18/2022,Mon,5671,Paid,07:00,13:00,Yes,4,0
+Thorofare Rd,07/17/2022,Sun,4944,Paid,07:00,12:00,Yes,23,0
+Launch Drive Cobbosseecontee,07/17/2022,Sun,5306,Paid,07:00,13:00,Yes,56,0
+Norcross Point South Basin Maranacook,07/17/2022,Sun,5581,Paid,07:00,13:00,Yes,12,0
+Whippoorwill Road,07/17/2022,Sun,5648,Paid,07:00,13:00,Yes,32,0
+Thorofare Rd,07/17/2022,Sun,2169,Paid,12:00,19:00,Yes,37,0
+Augusta West Kampground,07/17/2022,Sun,4174,Paid,08:00,18:00,Yes,15,0
+Wilson Pond Road,07/17/2022,Sun,5644,Paid,07:00,17:00,Yes,15,0
+Beach Road,07/17/2022,Sun,5579,Paid,06:49,17:11,Yes,41,0
+Rt 41 North Basin Maranacook,07/17/2022,Sun,5006,Paid,07:00,17:00,Yes,53,0
+Old Kents Hill Road,07/17/2022,Sun,2092,Volunteer,15:00,17:00,Yes,4,0
+East Winthrop Cobbosseecontee,07/17/2022,Sun,3504,Paid,06:45,16:45,Yes,29,0
+Norcross Point South Basin Maranacook,07/17/2022,Sun,3796,Paid,13:00,19:00,Yes,32,0
+Whippoorwill Road,07/17/2022,Sun,5402,Paid,13:00,19:00,Yes,54,0
+Launch Drive Cobbosseecontee,07/17/2022,Sun,5580,Paid,13:00,19:00,Yes,68,0
+Lakeside Marina Cobbosseecontee,07/17/2022,Sun,5655,Paid,17:00,18:00,Yes,1,0
+Old Kents Hill Road,07/17/2022,Sun,1292,Volunteer,17:00,19:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/17/2022,Sun,5656,Paid,12:00,13:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/17/2022,Sun,5652,Paid,11:00,13:00,Yes,8,0
+Old Kents Hill Road,07/17/2022,Sun,2091,Volunteer,09:00,11:00,Yes,3,0
+Old Kents Hill Road,07/17/2022,Sun,5150,Volunteer,07:00,09:00,Yes,2,0
+Norcross Point South Basin Maranacook,07/16/2022,Sat,5581,Paid,13:00,19:00,Yes,17,0
+Augusta West Kampground,07/16/2022,Sat,5648,Paid,08:00,18:00,Yes,20,0
+Wilson Pond Road,07/16/2022,Sat,5306,Paid,07:00,13:00,Yes,9,0
+Thorofare Rd,07/16/2022,Sat,2169,Paid,13:00,19:00,Yes,20,0
+Wilson Pond Road,07/16/2022,Sat,5676,Volunteer,04:50,07:07,Yes,3,0
+East Winthrop Cobbosseecontee,07/16/2022,Sat,3504,Paid,12:45,18:45,Yes,26,0
+Old Kents Hill Road,07/16/2022,Sat,5670,Paid,07:00,17:00,Yes,10,0
+Norcross Point South Basin Maranacook,07/16/2022,Sat,5671,Paid,07:00,13:00,Yes,43,0
+East Winthrop Cobbosseecontee,07/16/2022,Sat,5402,Paid,07:00,13:00,Yes,7,0
+Launch Drive Cobbosseecontee,07/16/2022,Sat,5580,Paid,07:00,17:00,Yes,73,0
+Thorofare Rd,07/16/2022,Sat,4944,Paid,07:00,13:00,Yes,20,0
+Wilson Pond Road,07/16/2022,Sat,5644,Paid,13:00,19:00,Yes,15,0
+Launch Drive Cobbosseecontee,07/16/2022,Sat,5637,Paid,04:45,07:15,Yes,9,0
+Lakeside Marina Cobbosseecontee,07/16/2022,Sat,5652,Paid,07:00,16:00,No,10,0
+Launch Drive Cobbosseecontee,07/16/2022,Sat,5655,Paid,16:00,17:00,Yes,1,0
+Launch Drive Cobbosseecontee,07/16/2022,Sat,5637,Volunteer,17:00,20:00,Yes,20,0
+Lakeside Marina Cobbosseecontee,07/16/2022,Sat,5655,Paid,18:00,19:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/16/2022,Sat,5657,Paid,17:00,18:00,Yes,1,0
+Whippoorwill Road,07/16/2022,Sat,5586,Paid,07:00,13:00,Yes,33,0
+East Winthrop Cobbosseecontee,07/15/2022,Fri,5579,Paid,12:56,19:02,Yes,11,0
+Whippoorwill Road,07/15/2022,Fri,5648,Paid,13:00,19:00,Yes,23,0
+East Winthrop Cobbosseecontee,07/15/2022,Fri,5588,Paid,07:00,13:00,Yes,8,0
+Launch Drive Cobbosseecontee,07/15/2022,Fri,2169,Paid,13:00,19:00,Yes,43,0
+Wilson Pond Road,07/15/2022,Fri,5676,Volunteer,16:10,18:00,Yes,5,0
+Thorofare Rd,07/15/2022,Fri,5402,Paid,13:00,17:30,Yes,7,0
+Launch Drive Cobbosseecontee,07/15/2022,Fri,5305,Paid,07:00,13:00,Yes,22,0
+Launch Drive Cobbosseecontee,07/15/2022,Fri,5637,Volunteer,04:50,07:10,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/15/2022,Fri,5654,Paid,15:00,17:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/15/2022,Fri,5653,Paid,14:00,15:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/15/2022,Fri,5652,Paid,07:00,08:00,Yes,1,0
+East Winthrop Cobbosseecontee,07/14/2022,Thu,5581,Paid,13:00,15:00,No,0,
+Whippoorwill Road,07/14/2022,Thu,5586,Paid,12:00,18:00,Yes,2,0
+Launch Drive Cobbosseecontee,07/14/2022,Thu,5648,Paid,07:00,13:00,Yes,5,0
+Launch Drive Cobbosseecontee,07/14/2022,Thu,2169,Paid,13:00,19:00,Yes,4,0
+Launch Drive Cobbosseecontee,07/14/2022,Thu,5637,Volunteer,05:43,07:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,07/14/2022,Thu,5698,Paid,09:00,10:00,Yes,1,0
+Launch Drive Cobbosseecontee,07/13/2022,Wed,5580,Paid,07:00,13:00,Yes,14,0
+East Winthrop Cobbosseecontee,07/13/2022,Wed,5588,Paid,07:00,13:00,Yes,4,0
+Launch Drive Cobbosseecontee,07/13/2022,Wed,5670,Paid,14:30,19:00,Yes,18,0
+East Winthrop Cobbosseecontee,07/13/2022,Wed,5586,Paid,13:00,19:00,Yes,9,0
+Launch Drive Cobbosseecontee,07/13/2022,Wed,5637,Volunteer,05:03,07:11,Yes,2,0
+East Winthrop Cobbosseecontee,07/12/2022,Tue,5581,Paid,13:00,19:00,Yes,3,0
+Launch Drive Cobbosseecontee,07/12/2022,Tue,5579,Paid,12:49,19:03,Yes,12,0
+East Winthrop Cobbosseecontee,07/12/2022,Tue,3504,Paid,06:45,12:45,Yes,6,0
+Lakeside Marina Cobbosseecontee,07/12/2022,Tue,5652,Paid,15:00,19:12,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/12/2022,Tue,5658,Paid,10:00,13:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/12/2022,Tue,5655,Paid,11:00,12:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/12/2022,Tue,5654,Paid,13:00,15:30,Yes,2,0
+Wilson Pond Road,07/11/2022,Mon,5668,Volunteer,13:00,14:00,No,0,
+Launch Drive Cobbosseecontee,07/11/2022,Mon,5580,Paid,12:00,19:00,Yes,16,0
+Lakeside Marina Cobbosseecontee,07/11/2022,Mon,5657,Paid,13:00,14:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,07/11/2022,Mon,5654,Paid,10:30,15:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/11/2022,Mon,5652,Paid,08:00,17:00,Yes,9,0
+East Winthrop Cobbosseecontee,07/11/2022,Mon,5586,Paid,13:00,19:00,Yes,8,0
+Launch Drive Cobbosseecontee,07/11/2022,Mon,5637,Volunteer,05:18,07:20,No,2,0
+Lakeside Marina Cobbosseecontee,07/11/2022,Mon,5698,Paid,10:00,14:00,Yes,4,0
+Lakeside Marina Cobbosseecontee,07/11/2022,Mon,5653,Paid,15:00,17:00,Yes,3,0
+Norcross Point South Basin Maranacook,07/10/2022,Sun,5633,Paid,13:00,19:00,Yes,25,3
+Rt 41 North Basin Maranacook,07/10/2022,Sun,3504,Paid,12:45,18:45,Yes,32,0
+Lakeside Marina Cobbosseecontee,07/10/2022,Sun,5657,Paid,14:00,16:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/10/2022,Sun,5652,Paid,16:00,18:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,07/10/2022,Sun,5658,Paid,07:00,12:30,Yes,7,0
+Rt 41 North Basin Maranacook,07/10/2022,Sun,5305,Paid,07:00,13:00,Yes,17,0
+Norcross Point South Basin Maranacook,07/10/2022,Sun,5671,Paid,07:00,13:00,Yes,11,0
+Augusta West Kampground,07/10/2022,Sun,5006,Paid,08:00,14:00,Yes,8,0
+Thorofare Rd,07/10/2022,Sun,4944,Paid,07:00,12:00,Yes,27,0
+East Winthrop Cobbosseecontee,07/10/2022,Sun,5105,Paid,07:00,13:00,Yes,15,0
+Old Kents Hill Road,07/10/2022,Sun,5588,Paid,07:00,17:00,Yes,12,0
+Wilson Pond Road,07/10/2022,Sun,5644,Paid,07:00,13:00,Yes,12,0
+Launch Drive Cobbosseecontee,07/10/2022,Sun,5648,Paid,07:00,17:00,Yes,94,
+Beach Road,07/10/2022,Sun,5581,Paid,13:00,19:00,Yes,2,0
+Whippoorwill Road,07/10/2022,Sun,5402,Paid,07:00,17:00,Yes,85,0
+Augusta West Kampground,07/10/2022,Sun,5577,Paid,14:00,20:00,Yes,6,0
+Wilson Pond Road,07/10/2022,Sun,4174,Paid,13:15,19:15,Yes,7,0
+Thorofare Rd,07/10/2022,Sun,2169,Paid,13:00,19:00,Yes,35,0
+Beach Road,07/09/2022,Sat,5306,Volunteer,07:00,13:00,Yes,19,0
+Launch Drive Cobbosseecontee,07/09/2022,Sat,3796,Paid,13:00,19:00,Yes,48,0
+Old Kents Hill Road,07/09/2022,Sat,5577,Paid,13:00,19:00,Yes,2,0
+Norcross Point South Basin Maranacook,07/09/2022,Sat,5006,Paid,07:00,17:00,Yes,26,0
+Wilson Pond Road,07/09/2022,Sat,3504,Paid,06:45,16:45,Yes,18,0
+Beach Road,07/09/2022,Sat,5648,Paid,13:00,19:00,Yes,19,0
+Thorofare Rd,07/09/2022,Sat,4944,Paid,07:00,13:00,Yes,25,0
+Old Kents Hill Road,07/09/2022,Sat,5671,Paid,07:00,13:00,Yes,6,0
+Launch Drive Cobbosseecontee,07/09/2022,Sat,5580,Paid,07:00,13:00,Yes,30,0
+East Winthrop Cobbosseecontee,07/09/2022,Sat,5633,Paid,07:00,13:00,Yes,23,0
+Rt 41 North Basin Maranacook,07/09/2022,Sat,5588,Paid,07:00,13:00,Yes,18,0
+Whippoorwill Road,07/09/2022,Sat,5586,Paid,13:00,19:00,Yes,38,0
+Lakeside Marina Cobbosseecontee,07/09/2022,Sat,5656,Paid,14:00,17:00,Yes,2,0
+Rt 41 North Basin Maranacook,07/09/2022,Sat,5670,Paid,13:00,19:00,Yes,32,0
+East Winthrop Cobbosseecontee,07/09/2022,Sat,5581,Paid,13:00,19:00,Yes,10,0
+Thorofare Rd,07/09/2022,Sat,2169,Paid,13:00,19:00,Yes,33,0
+Launch Drive Cobbosseecontee,07/09/2022,Sat,5637,Volunteer,05:10,07:12,Yes,7,0
+Lakeside Marina Cobbosseecontee,08/09/2022,Tue,5669,Paid,07:00,08:00,Yes,1,0
+East Winthrop Cobbosseecontee,09/25/2022,Sun,5648,Paid,07:00,17:00,Yes,17,0
+Launch Drive Cobbosseecontee,09/25/2022,Sun,5670,Paid,13:00,18:30,Yes,16,0
+Launch Drive Cobbosseecontee,09/25/2022,Sun,5727,Paid,07:05,13:10,Yes,27,0
+Launch Drive Cobbosseecontee,09/24/2022,Sat,5727,Paid,07:10,13:00,Yes,11,0
+Launch Drive Cobbosseecontee,09/24/2022,Sat,5648,Paid,13:00,19:00,Yes,14,0
+Augusta West Kampground,09/18/2022,Sun,4174,Paid,08:00,18:00,Yes,13,0
+East Winthrop Cobbosseecontee,09/18/2022,Sun,5648,Paid,07:00,17:00,Yes,16,0
+Launch Drive Cobbosseecontee,09/18/2022,Sun,3504,Paid,07:00,17:00,Yes,32,0
+Thorofare Rd,09/18/2022,Sun,4944,Paid,07:00,17:00,Yes,19,0
+Augusta West Kampground,09/17/2022,Sat,4174,Paid,08:00,18:00,Yes,17,0
+Launch Drive Cobbosseecontee,09/17/2022,Sat,5670,Paid,13:00,19:00,Yes,36,0
+East Winthrop Cobbosseecontee,09/17/2022,Sat,3504,Paid,13:00,19:00,Yes,11,0
+Rt 41 North Basin Maranacook,09/17/2022,Sat,5584,Paid,13:00,19:00,Yes,7,0
+Thorofare Rd,09/17/2022,Sat,4944,Paid,07:00,17:00,Yes,37,0
+East Winthrop Cobbosseecontee,09/17/2022,Sat,5648,Paid,07:00,13:00,Yes,6,0
+Launch Drive Cobbosseecontee,09/17/2022,Sat,5727,Paid,07:00,13:10,Yes,23,0
+Launch Drive Cobbosseecontee,09/16/2022,Fri,5648,Paid,07:00,13:00,Yes,10,0
+Thorofare Rd,09/16/2022,Fri,2169,Paid,13:00,19:00,Yes,15,0
+Launch Drive Cobbosseecontee,09/16/2022,Fri,3504,Paid,13:00,19:00,Yes,5,0
+East Winthrop Cobbosseecontee,09/16/2022,Fri,5670,Paid,07:00,17:00,Yes,5,0
+Lakeside Marina Cobbosseecontee,09/13/2022,Tue,4729,Paid,10:00,12:00,Yes,3,0
+Old Kents Hill Road,09/11/2022,Sun,1292,Volunteer,15:00,17:00,No,0,
+Rt 41 North Basin Maranacook,09/11/2022,Sun,5633,Paid,13:06,19:00,Yes,11,0
+Thorofare Rd,09/11/2022,Sun,4944,Paid,07:00,17:00,Yes,30,0
+East Winthrop Cobbosseecontee,09/11/2022,Sun,5648,Paid,07:00,17:00,Yes,11,0
+Launch Drive Cobbosseecontee,09/11/2022,Sun,3504,Paid,07:00,17:00,Yes,36,0
+Old Kents Hill Road,09/11/2022,Sun,4624,Volunteer,09:00,11:00,No,0,
+Old Kents Hill Road,09/10/2022,Sat,1103,Volunteer,09:00,11:00,No,0,
+Old Kents Hill Road,09/10/2022,Sat,2096,Volunteer,11:00,15:00,Yes,5,0
+Augusta West Kampground,09/10/2022,Sat,4174,Paid,08:00,18:00,Yes,18,0
+Lakeside Marina Cobbosseecontee,09/10/2022,Sat,5652,Paid,09:00,12:00,Yes,6,0
+East Winthrop Cobbosseecontee,09/10/2022,Sat,5648,Paid,07:00,13:00,Yes,5,0
+Old Kents Hill Road,09/10/2022,Sat,2092,Volunteer,06:50,09:00,Yes,1,0
+East Winthrop Cobbosseecontee,09/10/2022,Sat,3504,Paid,13:00,19:00,Yes,21,0
+Thorofare Rd,09/10/2022,Sat,4944,Paid,07:00,17:00,Yes,41,0
+Launch Drive Cobbosseecontee,09/10/2022,Sat,5670,Paid,07:00,17:00,Yes,60,0
+Lakeside Marina Cobbosseecontee,09/09/2022,Fri,4729,Paid,14:00,22:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,09/09/2022,Fri,5657,Paid,15:00,17:30,Yes,5,0
+Lakeside Marina Cobbosseecontee,09/09/2022,Fri,5652,Paid,08:00,15:00,Yes,4,0
+Lakeside Marina Cobbosseecontee,09/09/2022,Fri,5654,Paid,16:00,19:00,Yes,4,0
+Launch Drive Cobbosseecontee,09/09/2022,Fri,5714,Paid,07:00,13:00,Yes,5,0
+Launch Drive Cobbosseecontee,09/09/2022,Fri,5637,Volunteer,04:40,07:00,Yes,6,0
+Launch Drive Cobbosseecontee,09/09/2022,Fri,3504,Paid,13:00,19:00,Yes,15,0
+East Winthrop Cobbosseecontee,09/09/2022,Fri,5670,Paid,13:00,19:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,09/08/2022,Thu,5698,Paid,05:30,12:00,Yes,5,0
+Lakeside Marina Cobbosseecontee,09/07/2022,Wed,5669,Paid,09:00,15:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,09/07/2022,Wed,5675,Paid,12:00,18:00,Yes,2,0
+Launch Drive Cobbosseecontee,09/07/2022,Wed,5637,Volunteer,05:06,07:34,No,0,
+Lakeside Marina Cobbosseecontee,09/06/2022,Tue,5657,Paid,16:00,18:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,09/06/2022,Tue,5654,Paid,09:00,14:00,Yes,3,0
+Lakeside Marina Cobbosseecontee,09/06/2022,Tue,5655,Paid,14:00,17:00,Yes,2,0
+Launch Drive Cobbosseecontee,09/06/2022,Tue,5637,Volunteer,05:06,07:15,Yes,1,0
+Lakeside Marina Cobbosseecontee,09/06/2022,Tue,5657,Paid,13:00,17:30,Yes,1,0
+Beach Road,09/05/2022,Mon,5306,Paid,07:00,13:00,Yes,2,0
+Launch Drive Cobbosseecontee,09/05/2022,Mon,5637,Volunteer,04:55,07:07,Yes,1,0
+Launch Drive Cobbosseecontee,09/05/2022,Mon,5637,Volunteer,04:56,07:06,Yes,3,0
+Augusta West Kampground,09/05/2022,Mon,4174,Paid,08:00,18:00,Yes,5,0
+Lakeside Marina Cobbosseecontee,09/05/2022,Mon,5698,Paid,07:00,14:00,Yes,2,0
+Launch Drive Cobbosseecontee,09/05/2022,Mon,3504,Paid,07:00,17:00,Yes,12,0
+East Winthrop Cobbosseecontee,09/05/2022,Mon,5714,Paid,07:00,17:00,Yes,1,0
+Old Kents Hill Road,09/05/2022,Mon,4383,Volunteer,15:00,17:00,Yes,1,0
+Whippoorwill Road,09/05/2022,Mon,5648,Paid,07:00,17:00,Yes,1,0
+Old Kents Hill Road,09/05/2022,Mon,5670,Paid,07:00,17:00,Yes,2,0
+Thorofare Rd,09/05/2022,Mon,4944,Paid,07:00,17:00,Yes,8,0
+Beach Road,09/05/2022,Mon,5582,Paid,13:00,19:00,Yes,2,0
+Norcross Point South Basin Maranacook,09/05/2022,Mon,5644,Paid,13:00,19:00,Yes,1,0
+Norcross Point South Basin Maranacook,09/05/2022,Mon,5671,Paid,07:00,13:00,Yes,3,0
+Thorofare Rd,09/04/2022,Sun,2169,Paid,13:00,19:00,Yes,21,0
+Lakeside Marina Cobbosseecontee,09/04/2022,Sun,5652,Paid,07:00,15:00,Yes,4,0
+Beach Road,09/04/2022,Sun,4174,Paid,09:00,17:00,Yes,22,0
+Lakeside Marina Cobbosseecontee,09/04/2022,Sun,5657,Paid,16:00,18:00,Yes,2,0
+Augusta West Kampground,09/04/2022,Sun,5671,Paid,08:00,14:00,Yes,11,0
+East Winthrop Cobbosseecontee,09/04/2022,Sun,5588,Paid,07:00,13:00,Yes,7,0
+Old Kents Hill Road,09/04/2022,Sun,5633,Paid,07:00,13:00,Yes,6,0
+Rt 41 North Basin Maranacook,09/04/2022,Sun,5584,Paid,07:00,13:00,Yes,10,0
+Thorofare Rd,09/04/2022,Sun,4944,Paid,07:00,13:00,Yes,17,0
+Old Kents Hill Road,09/04/2022,Sun,1292,Volunteer,17:00,19:00,No,0,
+Launch Drive Cobbosseecontee,09/04/2022,Sun,3504,Paid,07:00,17:00,Yes,100,0
+Old Kents Hill Road,09/04/2022,Sun,5144,Volunteer,13:00,15:00,Yes,4,0
+Augusta West Kampground,09/04/2022,Sun,5672,Volunteer,16:00,18:00,Yes,4,0
+Wilson Pond Road,09/04/2022,Sun,5582,Paid,07:00,13:30,Yes,10,0
+Rt 41 North Basin Maranacook,09/04/2022,Sun,5670,Paid,13:00,19:00,Yes,12,0
+East Winthrop Cobbosseecontee,09/04/2022,Sun,5714,Paid,13:00,19:00,Yes,13,0
+Norcross Point South Basin Maranacook,09/04/2022,Sun,5644,Paid,07:00,17:00,Yes,25,0
+Augusta West Kampground,09/04/2022,Sun,5582,Paid,14:00,16:00,Yes,4,0
+Wilson Pond Road,09/04/2022,Sun,5582,Paid,16:30,17:30,Yes,1,0
+Whippoorwill Road,09/03/2022,Sat,2169,Paid,07:00,17:00,Yes,30,0
+Rt 41 North Basin Maranacook,09/03/2022,Sat,5644,Paid,07:00,13:00,Yes,13,0
+Launch Drive Cobbosseecontee,09/03/2022,Sat,5637,Volunteer,04:50,07:05,Yes,6,0
+Lakeside Marina Cobbosseecontee,09/03/2022,Sat,5657,Paid,15:00,16:00,Yes,1,0
+Augusta West Kampground,09/03/2022,Sat,4174,Paid,08:00,18:00,Yes,6,0
+Lakeside Marina Cobbosseecontee,09/03/2022,Sat,5652,Paid,07:30,15:00,Yes,5,0
+Launch Drive Cobbosseecontee,09/03/2022,Sat,3504,Paid,13:00,19:00,Yes,47,0
+Old Kents Hill Road,09/03/2022,Sat,2096,Volunteer,13:00,15:00,Yes,5,0
+Beach Road,09/03/2022,Sat,5306,Paid,07:00,13:00,Yes,5,0
+Old Kents Hill Road,09/03/2022,Sat,1292,Volunteer,17:00,19:00,Yes,3,0
+Old Kents Hill Road,09/03/2022,Sat,5451,Volunteer,15:00,17:00,Yes,3,0
+Old Kents Hill Road,09/03/2022,Sat,1289,Volunteer,09:00,11:00,Yes,3,0
+Old Kents Hill Road,09/03/2022,Sat,2091,Volunteer,11:00,13:00,Yes,3,0
+Old Kents Hill Road,09/03/2022,Sat,1149,Volunteer,07:00,09:00,Yes,1,0
+East Winthrop Cobbosseecontee,09/03/2022,Sat,5633,Paid,07:00,17:00,Yes,28,0
+Norcross Point South Basin Maranacook,09/03/2022,Sat,5671,Paid,07:00,17:00,Yes,17,0
+Thorofare Rd,09/03/2022,Sat,4944,Paid,07:00,17:00,Yes,27,0
+Launch Drive Cobbosseecontee,09/03/2022,Sat,5670,Paid,07:00,13:00,Yes,36,0
+Wilson Pond Road,09/03/2022,Sat,5648,Paid,07:00,17:00,Yes,13,0
+Rt 41 North Basin Maranacook,09/03/2022,Sat,5584,Paid,13:00,19:00,Yes,18,0
+Launch Drive Cobbosseecontee,09/02/2022,Fri,2169,Paid,13:00,19:00,Yes,24,0
+Launch Drive Cobbosseecontee,09/02/2022,Fri,3504,Paid,07:00,13:00,Yes,22,0
+Wilson Pond Road,09/02/2022,Fri,5706,Volunteer,04:50,07:00,Yes,2,0
+Launch Drive Cobbosseecontee,09/02/2022,Fri,5637,Volunteer,04:47,07:00,Yes,5,0
+Wilson Pond Road,09/02/2022,Fri,5706,Volunteer,05:50,07:50,Yes,1,0
+Lakeside Marina Cobbosseecontee,09/02/2022,Fri,5652,Paid,15:00,19:30,Yes,3,0
+Lakeside Marina Cobbosseecontee,09/02/2022,Fri,5657,Paid,16:00,17:00,Yes,1,0
+Thorofare Rd,09/02/2022,Fri,5648,Paid,12:00,18:00,Yes,16,1
+Whippoorwill Road,09/02/2022,Fri,5670,Paid,12:00,18:00,Yes,12,0
+East Winthrop Cobbosseecontee,09/02/2022,Fri,5714,Paid,13:00,19:00,Yes,13,0
+Launch Drive Cobbosseecontee,09/01/2022,Thu,2169,Paid,13:00,19:00,Yes,12,0
+Launch Drive Cobbosseecontee,09/01/2022,Thu,5648,Paid,07:00,13:00,Yes,9,0
+Launch Drive Cobbosseecontee,09/01/2022,Thu,5637,Volunteer,04:53,07:03,Yes,3,0
+Lakeside Marina Cobbosseecontee,09/01/2022,Thu,5715,Paid,13:00,16:00,Yes,2,0
+Launch Drive Cobbosseecontee,08/31/2022,Wed,3504,Paid,13:00,19:00,Yes,5,0
+Launch Drive Cobbosseecontee,08/31/2022,Wed,5670,Paid,07:00,13:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/31/2022,Wed,5698,Paid,13:00,18:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/31/2022,Wed,5715,Paid,10:00,13:00,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/30/2022,Tue,5654,Paid,08:50,10:30,Yes,3,0
+Lakeside Marina Cobbosseecontee,08/30/2022,Tue,5652,Paid,19:42,20:01,Yes,2,0
+Launch Drive Cobbosseecontee,08/30/2022,Tue,5637,Volunteer,04:29,07:08,No,0,0
+Lakeside Marina Cobbosseecontee,08/30/2022,Tue,5654,Paid,09:00,13:00,Yes,1,0
+Lakeside Marina Cobbosseecontee,08/30/2022,Tue,5715,Paid,13:00,17:00,Yes,1,0
+Launch Drive Cobbosseecontee,08/29/2022,Mon,5582,Paid,15:00,18:30,Yes,39,0
+Launch Drive Cobbosseecontee,08/29/2022,Mon,5670,Paid,07:00,17:00,Yes,14,0
+Launch Drive Cobbosseecontee,08/29/2022,Mon,5637,Volunteer,04:55,07:10,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/29/2022,Mon,5654,Paid,08:00,15:00,Yes,2,0
+Rt 41 North Basin Maranacook,08/28/2022,Sun,5584,Paid,13:00,19:00,Yes,18,0
+Beach Road,08/28/2022,Sun,5622,Paid,13:45,19:00,Yes,10,0
+Wilson Pond Road,08/28/2022,Sun,5668,Volunteer,11:00,13:00,Yes,2,0
+Old Kents Hill Road,08/28/2022,Sun,5633,Paid,07:00,17:11,Yes,14,0
+Lakeside Marina Cobbosseecontee,08/28/2022,Sun,5669,Paid,10:20,10:21,Yes,1,0
+Thorofare Rd,08/28/2022,Sun,2169,Paid,13:00,19:00,Yes,19,0
+Lakeside Marina Cobbosseecontee,08/28/2022,Sun,5657,Paid,05:40,05:42,Yes,1,0
+East Winthrop Cobbosseecontee,08/28/2022,Sun,3504,Paid,07:00,17:00,Yes,27,0
+Augusta West Kampground,08/28/2022,Sun,4174,Paid,08:00,18:00,Yes,6,0
+Launch Drive Cobbosseecontee,08/28/2022,Sun,5637,Volunteer,04:42,07:06,Yes,4,0
+Lakeside Marina Cobbosseecontee,08/28/2022,Sun,5652,Paid,09:00,11:49,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/28/2022,Sun,5654,Paid,13:14,14:42,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/28/2022,Sun,5669,Paid,15:49,20:00,Yes,1,0
+Whippoorwill Road,08/28/2022,Sun,5671,Paid,07:00,17:00,Yes,29,0
+Wilson Pond Road,08/28/2022,Sun,5631,Volunteer,07:00,09:10,Yes,3,0
+Launch Drive Cobbosseecontee,08/28/2022,Sun,5585,Paid,13:00,15:00,Yes,8,0
+Launch Drive Cobbosseecontee,08/28/2022,Sun,5580,Paid,07:00,13:00,Yes,36,0
+Rt 41 North Basin Maranacook,08/28/2022,Sun,5588,Paid,07:00,13:00,Yes,10,0
+Thorofare Rd,08/28/2022,Sun,4944,Paid,07:00,13:00,Yes,22,0
+Beach Road,08/28/2022,Sun,5622,Paid,13:00,19:00,Yes,3,0
+Norcross Point South Basin Maranacook,08/28/2022,Sun,5644,Paid,07:00,17:00,Yes,11,0
+Wilson Pond Road,08/27/2022,Sat,5582,Paid,09:30,10:00,Yes,1,0
+Thorofare Rd,08/27/2022,Sat,2169,Paid,13:00,19:00,Yes,16,0
+Lakeside Marina Cobbosseecontee,08/27/2022,Sat,5652,Paid,14:45,16:26,Yes,2,0
+Lakeside Marina Cobbosseecontee,08/27/2022,Sat,5669,Paid,08:45,10:30,Yes,3,0
+Lakeside Marina Cobbosseecontee,08/27/2022,Sat,5657,Paid,12:50,12:51,Yes,1,0
+Augusta West Kampground,08/27/2022,Sat,4174,Paid,08:00,18:00,Yes,8,0
+Lakeside Marina Cobbosseecontee,08/27/2022,Sat,5652,Paid,20:08,20:09,Yes,1,0
+Launch Drive Cobbosseecontee,08/27/2022,Sat,5637,Volunteer,04:58,07:05,Yes,13,0
