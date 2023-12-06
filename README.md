@@ -7,24 +7,15 @@ Friends of the Cobbossee Watershed (FOCW) is an environmental nonprofit dedicate
 
 # Background
 Friends of the Cobbossee Watershed (FOCW) is an environmental nonprofit dedicated to protecting Cobbossee Lake and the surrounding watershed district. The nonprofit's conservation work is focused into 2 missions: combating runoff pollution and controlling the spread of invasive species. 
-Organization Link: https://watershedfriends.com/
-- mission statement
-- region (Cobbossee watershed area- how many lakes & ponds etc)
-- organization structure (6 full time and then seasonal employees + volunteers)
-- define any key terms
-
-Explain the issues FOCW has had with hiring seasonal employees, being competitive with Dunkin Donuts and other minimum wage jobs
-
-Transitioning to new leadership
+Organization Website: https://watershedfriends.com/
 
 
 ## Courtesy Boat Inspection (CBI) Program
-CBI is one of FOCW’s programs to combat the existence and introduction of invasive species to the lakes and ponds
-FOCW’s trained Courtesy Boat Inspectors check boats and equipment for aquatic plants
-Boaters can spread invasive species from one body of water to another when plants (or other species) remain on a boat when it is removed from the water
-10 boat launches that FOCW staffs 
+Boaters can spread invasive species from one body of water to another when plants (or other species) remain on a boat when it is removed from the water. CBI is part of FOCW’s effort to combat the existence and introduction of invasive species to the lakes and ponds of the Cobbossee Watershed. During a courtesy boat inspection, one of FOCW’s trained Courtesy Boat Inspectors check boats and equipment for aquatic plants and educate boaters on how to properly wash boats and equipment to prevent the spread of invasive species. 
 
+<img src="images/CBI.jpeg" alt="Woman conducting courtesy boat inspection" width="400"/>
 
+Over the past few years, FOCW has covered approximately 80% of the shifts it aimed to staff for it's CBI program. The organization's goal has been to staff 10 sites during every weekend from Memorial Day to Labor Day as well as holidays. The Friends of the Cobbossee Watershed staff do also cover some weekday non-holiday shifts and volunteer trained inspectors also have covered some shifts though most shifts are staffed by paid inspectors. 
 
 # Project Goals
 1. Develop a model than can predict the number of inspections that would be conducted on a given shift
@@ -54,24 +45,55 @@ Boaters can spread invasive species from one body of water to another when plant
 
 
 # Data Cleaning & EDA
-The 2023 CBI shift data was downloaded as a csv from a dashboard maintained by the Maine Department of Environmental Protection found at this link: https://maine.maps.arcgis.com/apps/dashboards/de2b7d59cab1437187eb49ac26f1d852. Data for 2021 and 2022 is not publicly available to be downloaded so initially this data was scraped using the code found in the Webscraping notebook in the Scratchwork folder. However, 
+The 2023 CBI shift data was downloaded as a csv from a dashboard maintained by the Maine Department of Environmental Protection found at this link: https://maine.maps.arcgis.com/apps/dashboards/de2b7d59cab1437187eb49ac26f1d852. Data for 2021 and 2022 is not publicly available to be downloaded so initially this data was scraped using the code found in the Webscraping notebook in the Scratchwork folder. However, the data coordinator then sent over csv files with the 2021 and 2022 data which contained more variables than in the scraped data. Therefore, from that point the csv files provided by the Department of Environmental Protection were used for EDA and modeling. ]
 
+### Initial Data Cleaning
+The names of the inspectors aren't necessary and were dropped to preserve employee privacy. The number of invasive species identified, the number of motorized vehicles, and the number of non-motorized vehicles are all variables that would not be known before a shift begins. These variables are actually dependent on the number of inspections (the dependent variable in the model) rather than predictive of this variable and were all dropped as well. Comments, IDs of the site, and longitutde/ latitude are all redundant with the site_name and were also dropped. The only other significant data cleaning steps were to match variable and value names from 2022 to 2023 as the names in the datasets changed during that times. All Data Cleaning steps were conducted in the Data Cleaning and Feature Engineering notebook.
+
+### EDA Findings
+The most notable findings during the initial exploration of the data were that none of the numeric variables were highly correlated with the total number of inspections but that there were significant trends related to the location (site) of the shift and the time of day (day_part) when the shift began. Given the general lack of significant relationships, I believed that the most successful models would only be able to account for some of the variation in the total number of inspections per shift.
 
 # Feature Engineering
+#### Capturing impact of time of day
+Goal: Create columns for the part of the day when a shift starts and ends
+#### Handling Inspector_ID:
+- Some inspectors are more experienced than others, returning from prior years, working more shifts, and receiving higher pay
+- According to the program coordinator, there were some issues in 2023 with inspectors not inspecting all present boats
+- Goal: create a variable to capture the experience level of the inspector stationed for that shift
 
+try to add in the holidays as another column, and then to use feature engineering with shift length, shift start and shift end to attempt to somehow capture time of day.
+
+The models were all less overfit, however the tree models are still overfit. Parameter optimization could help reduce the overfit as well to balance out the metrics of the tree based models between the training and test scores. 
 
 # Developing a Model to Predict Total Inspections
 
 
-# Budget Projections
-FOCW requested budget forecasts for multiple What-If scenarios. First, they were interested in projections for how much the cost of labor would increase as wage increases. Second, they were interested in projections of the increase in cost if more shifts were covered in 2024 compared with 2023. 
-- $15.50 average wage
-- $16.00 average wage
-- $16.50 average wage
-- $17.00 average wage
+
+# Deploying the Model to Create Projections
+I deployed the model on multiple what-if scenarios to gain insights into how to optimize the process of increasing shift coverage. I created these scenarios by examining shifts that were not covered in 2023. In each scenario I simulated covering 100 extra shifts. In the first scenario, all shift variables were filled randomly based on the proportions of values in the original dataset and then merged with the weather data for that date. In the second scenario, start time was set to be 7 am for a 4 hour shift. In the third scenario, the start time remained the same but for an 8 hour shift. In the fourth scenario, I simulated 8 hour shifts that begin at 9:30 (the mean start_time in the 2023 data). 
+
+### Scenario Creation Process
+1. Identify shifts that were not covered in 2023
+2. Create a dataset of just the uncovered shifts
+3. Develop each step of the process of filling this data (merging with weather, setting start times, feature engineering)
+4. Create a function to fill in the values of each scenario
+
+### Prediction Process
+1. Use the pickled model to predict values for the what-if scenarios
+2. Sum the predictions
+3. Use bootstrapping to create a prediction_interval (95%)
 
 
-# Conclusions/ Results
+# Results
+
+# Conclusion
+
+# Reccommendations
+- Encourage volunteers to sign up for earlier shifts- and don’t discourage short targeted shifts!
+- Focus on staffing the higher volume boat launches first
+- Expand weekday shifts when possible
+- Increase the base pay rate to hire more staff and cover more shifts
+    - Can consider offsetting the costs by decreasing shift lengths
 
 
 # Next Steps
