@@ -18,6 +18,8 @@ Boaters can spread invasive species from one body of water to another when plant
 <img src="images/CBI.jpeg" alt="Woman conducting courtesy boat inspection" width="400"/>
 image source: https://watershedfriends.com/programs/conservation/invasive-aquatic-species/courtesy-boat-inspection/
 
+
+
 Over the past few years, FOCW has covered approximately 80% of the shifts it aimed to staff for it's CBI program. The organization's goal has been to staff the 10 public boat launches present in the watershed district during every weekend from Memorial Day to Labor Day as well as holidays. The Friends of the Cobbossee Watershed staff also cover some weekday non-holiday shifts. Volunteer trained inspectors cover some shifts as well though most shifts are staffed by paid inspectors. 
 
 # Project Goals
