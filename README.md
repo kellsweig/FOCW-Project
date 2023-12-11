@@ -16,6 +16,7 @@ Friends of the Cobbossee Watershed (FOCW) is an environmental nonprofit dedicate
 Boaters can spread invasive species from one body of water to another when plants (or other species) remain on a boat when it is removed from the water. The CBI program is part of FOCW’s effort to combat the existence and introduction of invasive species to the lakes and ponds of the Cobbossee Watershed. During a courtesy boat inspection, one of FOCW’s trained Courtesy Boat Inspectors check boats and equipment for aquatic plants and educate boaters on how to properly wash boats and equipment to prevent the spread of invasive species. 
 
 <img src="images/CBI.jpeg" alt="Woman conducting courtesy boat inspection" width="400"/>
+image source: https://watershedfriends.com/programs/conservation/invasive-aquatic-species/courtesy-boat-inspection/
 
 Over the past few years, FOCW has covered approximately 80% of the shifts it aimed to staff for it's CBI program. The organization's goal has been to staff the 10 public boat launches present in the watershed district during every weekend from Memorial Day to Labor Day as well as holidays. The Friends of the Cobbossee Watershed staff also cover some weekday non-holiday shifts. Volunteer trained inspectors cover some shifts as well though most shifts are staffed by paid inspectors. 
 
